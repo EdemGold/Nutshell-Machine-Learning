@@ -1,12 +1,13 @@
 ### CONTRIBUTION GUIDELINES
 
-- If you want to create a new folder, please create a  .txt file in the folder you want to create and name it "introduction to folder" and in it write out what the folder will contain; concepts you'll cover, code that will be written, language used, packages to be installed etc. This is done so developers who aren't  familiar with the content in the folder can understand what it's about.
+ - If you want to create a new folder, please create a  .txt file in the folder you want to create and name it "introduction to folder" and in it write out what the folder will contain; concepts you'll cover, code that will be written, language used, packages to be installed etc. This is done so developers who aren't  familiar with the content in the folder can understand what it's about.
 
-- All code contributions should have explanations.
+ - All code contributions should have explanations.
 
-- Code can be contributed using jupyter notebooks and .py, .r or .jl files. But jupyter notebooks will be much appreciated because they support clear explanation of code.
+ - Code can be contributed using jupyter notebooks and .py, .r or .jl files. But jupyter notebooks will be much appreciated because they support clear explanation of code.
 
-- All code contributed should concern Machine Learning in one way or another.
+ - All code contributed should concern Machine Learning in one way or another.
+
 
 #### *WHAT CAN YOU CONTRIBUTE !*
 

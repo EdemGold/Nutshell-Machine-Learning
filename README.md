@@ -1,28 +1,72 @@
-# *ML Concepts!*
+[![GitHub license](https://img.shields.io/github/license/EdemGold/Nutshell-Machinelearning.svg)](https://github.com/EdemGold/Nutshell-Machinelearning/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/EdemGold/Nutshell-Machinelearning.svg)](https://GitHub.com/EdemGold/Nutshell-Machinelearning/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/EdemGold/Nutshell-Machinelearning.svg)](https://GitHub.com/EdemGold/Nutshell-Machinelearning/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/EdemGold/Nutshell-Machinelearning.svg)](https://GitHub.com/EdemGold/Nutshell-Machinelearning/pulls/)
 
-##### REPO ARCHITECTURE.
+[![GitHub watchers](https://img.shields.io/github/watchers/EdemGold/Nutshell-Machinelearning.svg?style=social&label=Watch)](https://GitHub.com/EdemGold/Nutshell-Machinelearning/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/EdemGold/Nutshell-Machinelearning.svg?style=social&label=Fork)](https://GitHub.com/EdemGold/Nutshell-Machinelearning/network/)
+[![GitHub stars](https://img.shields.io/github/stars/EdemGold/Nutshell-Machinelearning.svg?style=social&label=Star)](https://GitHub.com/EdemGold/Nutshell-Machinelearning/stargazers/)
 
-The repository was built with a tree-like structure in mind.
+# Machine Learning for Beginners
 
-It contains folders inside folders.
+ 🌍 "Machines are able to see, hear and learn. Welcome to the future". 🌍
 
-###### In the supervised learning folder you will find classification and regression folders. Each folder contains a .txt file called "introduction to folder" which talks about the folder and all the stuff contained in that folder.
+The repository was built with a tree-like structure in mind. It contains everything that you need to getting started with Machine Learning.
 
-### CONTRIBUTION GUIDELINES
+**It contains folders inside folders.**
 
-- If you want to create a new folder, please create a  .txt file in the folder you want to create and name it "introduction to folder" and in it write out what the folder will contain; concepts you'll cover, code that will be written, language used, packages to be installed etc. This is done so developers who aren't  familiar with the content in the folder can understand what it's about.
+> In the supervised learning folder you will find classification and regression folders. Each folder contains a .txt file called "introduction to folder" which talks about the folder and all the stuff contained in that folder.
 
-- All code contributions should have explanations.
+We feel a lot of the fear people have of Machine learning is due to those unnecessary complex terms.
 
-- Code can be contributed using jupyter notebooks and .py, .r or .jl files. But jupyter notebooks will be much appreciated because they support clear explanation of code.
+>It stops people from going into Machine Learning and makes them feel they need to have a degree or something. It's not true, anyone can do ML.
 
-- All code contributed should concern Machine Learning in one way or another.
+And We plan to make that happen.
 
-#### *WHAT CAN YOU CONTRIBUTE !*
+**We're working on this open source project, This Repository with coded explanations of Machine Learning concepts like Supervised Learning, Unsupervised Learning, Reinforcement learning, Computer Vision, Natural Language Processing and stuff like that.**
 
-Anything can be contributed as long as it concerns Machine Learning.
+## Prerequisites
 
-If you can't contribute code them you can help fix a typo just make sure you contribute where it's needed.
+ - Programming with Python
+ - Basics of Data Libraries
 
-It's our responsibility as a community to help each other. 
-Knock yourself out.
+**If you are completely new to Machine Learning don't worry we have a Roadmap [Click Here](Roadmap/roadmap.md) on How to getting Started.**
+
+## Run Locally
+
+Currently This Project under developing stage.
+
+Clone the project
+
+```bash
+  git clone https://github.com/EdemGold/Nutshell_Machinelearning.git
+```
+
+Go to the project directory
+
+```bash
+  cd Nutshell_Machinelearning
+```
+
+Travel with us around the world as we apply these classic techniques to data from many areas of the world. Each folder contains a folder. We're going to add quizzes, written instructions to complete the lesson, a solution, an assignment and more.
+
+
+## Help Wanted, Contact with us at!
+
+Edem Gold - [Twitter](https://twitter.com/EdemGold1)
+
+Gaurav Pandey - [Twitter](https://twitter.com/gaurtvin)
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please read the [contribution guidelines](CONTRIBUTING.md) before starting work on a pull request.
+
+## License
+
+This Project is Licensed Under [MIT](https://choosealicense.com/licenses/mit/) License.
+
+## Thank you!
