@@ -48,6 +48,13 @@ Go to the project directory
   cd Nutshell-Machine-Learning
 ```
 
+Switch to pull-request branch
+
+```bash
+  git switch pull-request
+``` 
+ 
+
 Travel with us around the world as we apply these classic techniques to data from many areas of the world. Each folder contains a folder. We're going to add quizzes, written instructions to complete the lesson, a solution, an assignment and more.
 
 
