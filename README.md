@@ -39,13 +39,13 @@ Currently This Project under developing stage.
 Clone the project
 
 ```bash
-  git clone https://github.com/EdemGold/Nutshell_Machinelearning.git
+  git clone https://github.com/EdemGold/Nutshell-Machine-Learning.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Nutshell_Machinelearning
+  cd Nutshell-Machine-Learning
 ```
 
 Travel with us around the world as we apply these classic techniques to data from many areas of the world. Each folder contains a folder. We're going to add quizzes, written instructions to complete the lesson, a solution, an assignment and more.
