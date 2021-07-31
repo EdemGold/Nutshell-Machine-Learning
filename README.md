@@ -1,5 +1,4 @@
 # Nutshell Machine Learning 
-
 ![GitHub](https://img.shields.io/github/license/EdemGold/Nutshell-Machine-Learning)
 ![GitHub](https://img.shields.io/badge/Contributions-welcome-green)
 ![GitHub](https://img.shields.io/badge/PRs-welcome-green)
