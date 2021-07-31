@@ -1,11 +1,8 @@
-[![GitHub license](https://img.shields.io/github/license/EdemGold/Nutshell-Machinelearning.svg)](https://github.com/EdemGold/Nutshell-Machinelearning/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/EdemGold/Nutshell-Machinelearning.svg)](https://GitHub.com/EdemGold/Nutshell-Machinelearning/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/EdemGold/Nutshell-Machinelearning.svg)](https://GitHub.com/EdemGold/Nutshell-Machinelearning/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/EdemGold/Nutshell-Machinelearning.svg)](https://GitHub.com/EdemGold/Nutshell-Machinelearning/pulls/)
-
-[![GitHub watchers](https://img.shields.io/github/watchers/EdemGold/Nutshell-Machinelearning.svg?style=social&label=Watch)](https://GitHub.com/EdemGold/Nutshell-Machinelearning/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/EdemGold/Nutshell-Machinelearning.svg?style=social&label=Fork)](https://GitHub.com/EdemGold/Nutshell-Machinelearning/network/)
-[![GitHub stars](https://img.shields.io/github/stars/EdemGold/Nutshell-Machinelearning.svg?style=social&label=Star)](https://GitHub.com/EdemGold/Nutshell-Machinelearning/stargazers/)
+![GitHub](https://img.shields.io/github/license/EdemGold/Nutshell-Machine-Learning)
+![GitHub](https://img.shields.io/badge/Contributions-welcome-green)
+![GitHub](https://img.shields.io/badge/PRs-welcome-green)
+![GitHub contributors](https://img.shields.io/github/contributors/EdemGold/Nutshell-Machine-Learning)
+![GitHub Repo stars](https://img.shields.io/github/stars/EdemGold/Nutshell-Machine-Learning)
 
 # Machine Learning for Beginners
 
