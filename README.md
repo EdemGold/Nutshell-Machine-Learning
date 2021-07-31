@@ -1,4 +1,5 @@
 # Nutshell Machine Learning 
+
 ![GitHub](https://img.shields.io/github/license/EdemGold/Nutshell-Machine-Learning)
 ![GitHub](https://img.shields.io/badge/Contributions-welcome-green)
 ![GitHub](https://img.shields.io/badge/PRs-welcome-green)
@@ -6,6 +7,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/EdemGold/Nutshell-Machine-Learning)
 
 ![Image](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Images/Image_1.png)
+
 
 🌍 "Machines are able to see, hear and learn. Welcome to the future". 🌍
 
