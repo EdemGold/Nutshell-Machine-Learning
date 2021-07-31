@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/EdemGold/Nutshell-Machine-Learning)
-![GitHub](https://img.shields.io/badge/PRs-welcome-green)
 ![GitHub](https://img.shields.io/badge/Contributions-welcome-green)
+![GitHub](https://img.shields.io/badge/PRs-welcome-green)
 ![GitHub contributors](https://img.shields.io/github/contributors/EdemGold/Nutshell-Machine-Learning)
 ![GitHub Repo stars](https://img.shields.io/github/stars/EdemGold/Nutshell-Machine-Learning)
 
