@@ -1,22 +1,12 @@
-### CONTRIBUTION GUIDELINES
+# CONTRIBUTION GUIDELINES
 
- - If you want to create a new folder, please create a  .txt file in the folder you want to create and name it "introduction to folder" and in it write out what the folder will contain; concepts you'll cover, code that will be written, language used, packages to be installed etc. This is done so developers who aren't  familiar with the content in the folder can understand what it's about.
-
- - All code contributions should have explanations.
-
- - Code can be contributed using jupyter notebooks and .py, .r or .jl files. But jupyter notebooks will be much appreciated because they support clear explanation of code.
-
- - All code contributed should concern Machine Learning in one way or another.
-
-
-#### *WHAT CAN YOU CONTRIBUTE !*
-
-Anything can be contributed as long as it concerns Machine Learning.
-
-If you can't contribute code them you can help fix a typo just make sure you contribute where it's needed.
-
-**It's our responsibility as a community to help each other.** 
-Knock yourself out.
-
-
-Thanks!
+-  Any contribution is welcome such as fixing grammatical errors, fixing broken links, adding resources, etc.
+- Before contributing, here's our [CODE OF CONDUCT](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/CODE_OF_CONDUCT.md) which must be adhered to.
+- Verify that any resource(s) to be added isn't already present in the repo, as yours may be a duplicate.
+- Use [title-casing](http://titlecapitalization.com/) (AP style).
+- Use the following format: [Title Case Name](link) - Description.
+- Keep descriptions short and simple, but descriptive.
+- Pull requests should have a useful title.
+- Create a folder to add any Machine Learning concept, make sure the folder contains a detailed explanation of the concept. Also, if there are packages to be installed, create a `.txt` file stating out the packages to be installed and how to install these packages.
+- Code can be contributed using jupyter notebooks and `.py`, `.r` or `.jl` files. But jupyter notebooks will be much appreciated because they support a clear explanation of code.
+  
