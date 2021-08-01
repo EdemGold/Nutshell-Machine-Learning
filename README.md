@@ -13,9 +13,7 @@
 
 The repository was built with a tree-like structure in mind, it contains everything that you need to getting started with Machine Learning. A lot of the fear people have of Machine learning is due to those unnecessary complex terms, this stops people from going into Machine Learning. It's not true!, anyone can do ML, and we plan to make that happen.
 
-
-
-**If you are completely new to Machine Learning don't worry we have a Roadmap [Click Here](Roadmap/roadmap.md) on How to getting Started.**
+Here is a resource to get you started with the basics and fundamentals of Python. Check out this [roadmap](Roadmap/roadmap.md) too.
 
 # Contributing
 
