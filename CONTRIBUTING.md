@@ -3,15 +3,15 @@
 - Fork the repo
 - Open your terminal and clone it on your machine:  
   ```
-  git clone https://github.com/EdemGold/Nutshell_Machinelearning.git
+  git clone https://github.com/Mannuel25/Nutshell-Machine-Learning.git
   ```
 - Add an upstream link to the main branch in your cloned repo: 
   ```
-  git remote add upstream https://github.com/EdemGoldNutshell_Machinelearning.git
+  git remote add upstream https://github.com/Mannuel25/Nutshell-Machine-Learning.git
   ```
 - Keep your cloned repo up to date by pulling from upstream (to avoid any merge conflicts while committing new changes): 
   ```
-  git pull upstream main https://github.com/prathimacode-hub/Awesome_Python_Scripts.git
+  git pull upstream main https://github.com/Mannuel25/Nutshell-Machine-Learning.git
   ```
 - Create your  own branch:  `git checkout -b <branch-name>`
 - Commit all the changes (use descriptive commit messages): git commit -m "a descriptive commit message"
