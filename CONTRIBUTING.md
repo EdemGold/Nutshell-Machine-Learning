@@ -16,12 +16,12 @@
 - Create your  own branch:  `git checkout -b <branch-name>`
 - Commit all the changes (use descriptive commit messages): git commit -m "a descriptive commit message"
 - Push your changes:  `git push origin <branch-name>`
-- Make a PR on Github; use descriptive PR title to specify the changes you've made.
+- Make a PR on Github; use a descriptive PR title to specify the change(s) made.
 - Before contributing, here's our [CODE OF CONDUCT](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/CODE_OF_CONDUCT.md) which must be adhered to.
 - Verify that any resource(s) to be added isn't already present in the repo, as yours may be a duplicate.
 - When making a PR, make the PR to the `sub-main` branch, not the `main` branch.
 - Use the `[Title Case Name](link)` format
 - Use concise descriptions.
 - Pull requests should have a useful title.
-- Create a folder to add any Machine Learning concept, make sure the folder contains a detailed explanation of the concept. Also, if there are packages to be installed, create a `.txt` file stating out the packages to be installed and how to install these packages.
-- Code can be contributed using jupyter notebooks and `.py`, `.r` or `.jl` files. But jupyter notebooks will be much appreciated because they support a clear explanation of code.
+- To add any Machine Learning concept, create a folder in the ML Concepts folder and add the concept to be added with detailed explanations. Also, if there are packages to be installed, create a `.txt` file stating out the packages to be installed and how to install these packages.
+- Codes can be contributed using jupyter notebooks and `.py`, `.r` or `.jl` files. But jupyter notebooks will be much appreciated because they support a clear explanation of code.
