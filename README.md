@@ -8,7 +8,7 @@
 
 ![Image](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Images/Image_1.png)
 
-
+# 
 
 > Machines are able to see, hear and learn. Welcome to the future 🌍
 
