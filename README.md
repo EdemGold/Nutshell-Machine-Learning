@@ -9,7 +9,7 @@
 ![Image](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Images/Image_1.png)
 
 
-🌍 "Machines are able to see, hear and learn. Welcome to the future". 🌍
+ > Machines are able to see, hear and learn. Welcome to the future 🌍
 
 The repository was built with a tree-like structure in mind, it contains everything that you need to getting started with Machine Learning. A lot of the fear people have of Machine learning is due to those unnecessary complex terms, this stops people from going into Machine Learning. It's not true!, anyone can do ML, and we plan to make that happen.
 
