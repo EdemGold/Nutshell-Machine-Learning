@@ -21,7 +21,7 @@
 - Before contributing, here's our [CODE OF CONDUCT](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/CODE_OF_CONDUCT.md) which must be adhered to.
 - Verify that any resource(s) to be added isn't already present in the repo, as yours may be a duplicate.
 - When making a PR, make the PR to the `sub-main` branch, not the `main` branch.
-- Use the `[Title Case Name](link)` format
+- Use the `[Title Case Name](link)` format.
 - Use concise descriptions.
 - Pull requests should have a useful title.
 - To add any Machine Learning concept, create a folder in the ML Concepts folder and add the concept to be added with detailed explanations. Also, if there are packages to be installed, create a `.txt` file stating out the packages to be installed and how to install these packages.
