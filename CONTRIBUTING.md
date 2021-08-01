@@ -1,6 +1,6 @@
 # CONTRIBUTION GUIDELINES
 
--  Any contribution is welcome such as fixing grammatical errors, fixing broken links, adding resources, etc.
+-  Any contribution is welcomed such as fixing grammatical errors, fixing broken links, adding resources, etc.
 - Before contributing, here's our [CODE OF CONDUCT](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/CODE_OF_CONDUCT.md) which must be adhered to.
 - Verify that any resource(s) to be added isn't already present in the repo, as yours may be a duplicate.
 - Use [title-casing](http://titlecapitalization.com/) (AP style).
