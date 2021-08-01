@@ -11,62 +11,17 @@
 
 🌍 "Machines are able to see, hear and learn. Welcome to the future". 🌍
 
-The repository was built with a tree-like structure in mind. It contains everything that you need to getting started with Machine Learning. We feel a lot of the fear people have of Machine learning is due to those unnecessary complex terms. This stops people from going into Machine Learning and makes them feel they need to have a degree or something. It's not true!, anyone can do ML, and we plan to make that happen.
-
-> In the supervised learning folder you will find classification and regression folders. Each folder contains a .txt file called "introduction to folder" which talks about the folder and all the stuff contained in that folder.
+The repository was built with a tree-like structure in mind, it contains everything that you need to getting started with Machine Learning. A lot of the fear people have of Machine learning is due to those unnecessary complex terms, this stops people from going into Machine Learning. It's not true!, anyone can do ML, and we plan to make that happen.
 
 
-**We're working on this open source project, This Repository with coded explanations of Machine Learning concepts like Supervised Learning, Unsupervised Learning, Reinforcement learning, Computer Vision, Natural Language Processing and stuff like that.**
-
-## Prerequisites
-
- - Programming with Python
- - Basics of Data Libraries
 
 **If you are completely new to Machine Learning don't worry we have a Roadmap [Click Here](Roadmap/roadmap.md) on How to getting Started.**
 
-## Run Locally
+# Contributing
 
-Currently This Project under developing stage.
+Feel free to add more resources to this repo by either creating an issue or making a Pull Request. Endeavour to verify that any resource(s) to be added isn't already present in the repo. See our [contribution guidelines](CONTRIBUTING.md) to get started.
 
-Clone the project
-
-```bash
-  git clone https://github.com/EdemGold/Nutshell-Machine-Learning.git
-```
-
-Go to the project directory
-
-```bash
-  cd Nutshell-Machine-Learning
-```
-
-Switch to pull-request branch
-
-```bash
-  git switch pull-request
-``` 
- 
-
-Travel with us around the world as we apply these classic techniques to data from many areas of the world. Each folder contains a folder. We're going to add quizzes, written instructions to complete the lesson, a solution, an assignment and more.
-
-
-## Help Wanted, Contact with us at!
-
-Edem Gold - [Twitter](https://twitter.com/EdemGold1)
-
-Gaurav Pandey - [Twitter](https://twitter.com/gaurtvin)
-
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please read the [contribution guidelines](CONTRIBUTING.md) before starting work on a pull request.
 
 ## License
 
-This Project is Licensed Under [MIT](https://choosealicense.com/licenses/mit/) License.
-
-## Thank you!
+This repository is under an [MIT](https://choosealicense.com/licenses/mit/) License.
