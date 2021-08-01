@@ -23,8 +23,12 @@ This file is allocated towards helping you understand the basics and fundamental
 - [Crash Into Python](https://stephensugden.com/crash_into_python/) - Crash into Python is a set of documents/slides that are meant to be used as a teaching aid for bringing programmers from other languages up to speed with Python. 
 - [Pynative](https://pynative.com) - Pynative is for Python lovers. Here, You can get Tutorials, Exercises, and Quizzes to practice and improve your Python skills. 
 - [Python Tutor](http://pythontutor.com/) - Python Tutor helps people overcome a fundamental barrier to learning programming: understanding what happens as the computer runs each line of code. 
-- [Dive Into Python 3](https://diveintopython3.net/) -  All you need to know to get off ground with Python 3. 
-- [Python programming](https://pythonprogramming.net/) - Learn the basics and fundamentals of Python. |
+- [Automate the boring stuff with Python](https://automatetheboringstuff.com/) - In Automate the Boring Stuff with Python, you'll learn how to use Python to write programs that do in minutes what would take you hours to do by hand-no prior programming experience required. 
+- [Tutorials Point](https://www.tutorialspoint.com/python/index.htm) - Learn the basics and fundamentals of Python. 
+- [Codecademy](https://www.codecademy.com/catalog/language/python) - A platform that guides you through the basics of Python.
+- [Kaggle](https://www.kaggle.com/learn/python) - Intro into the fundamentals of Python.
+- [Programiz](https://www.programiz.com/python-programming) - Our Python tutorial will guide you to learn Python one step at a time.
+- [Real Python](https://realpython.com/) - At Real Python you can learn all things Python from the ground up. Everything from the absolute basics of Python, to web development and web scraping, to data visualization, and beyond.
 
 
 
