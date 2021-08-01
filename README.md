@@ -22,4 +22,4 @@ Feel free to add more resources to this repo by either creating an issue or maki
 
 ## License
 
-This repository is under an [MIT](https://choosealicense.com/licenses/mit/) License.
+This repository is under an [MIT License](https://choosealicense.com/licenses/mit/).
