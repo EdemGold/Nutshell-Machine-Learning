@@ -17,6 +17,7 @@
 - Commit all the changes (use descriptive commit messages): git commit -m "a descriptive commit message"
 - Push your changes:  `git push origin <branch-name>`
 - Make a PR on Github; use a descriptive PR title to specify the change(s) made.
+- Any contribution is welcomed such as fixing grammatical errors, fixing broken links, adding resources, etc.
 - Before contributing, here's our [CODE OF CONDUCT](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/CODE_OF_CONDUCT.md) which must be adhered to.
 - Verify that any resource(s) to be added isn't already present in the repo, as yours may be a duplicate.
 - When making a PR, make the PR to the `sub-main` branch, not the `main` branch.
