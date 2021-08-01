@@ -11,17 +11,10 @@
 
 🌍 "Machines are able to see, hear and learn. Welcome to the future". 🌍
 
-The repository was built with a tree-like structure in mind. It contains everything that you need to getting started with Machine Learning.
-
-**It contains folders inside folders.**
+The repository was built with a tree-like structure in mind. It contains everything that you need to getting started with Machine Learning. We feel a lot of the fear people have of Machine learning is due to those unnecessary complex terms. This stops people from going into Machine Learning and makes them feel they need to have a degree or something. It's not true!, anyone can do ML, and we plan to make that happen.
 
 > In the supervised learning folder you will find classification and regression folders. Each folder contains a .txt file called "introduction to folder" which talks about the folder and all the stuff contained in that folder.
 
-We feel a lot of the fear people have of Machine learning is due to those unnecessary complex terms.
-
->It stops people from going into Machine Learning and makes them feel they need to have a degree or something. It's not true, anyone can do ML.
-
-And We plan to make that happen.
 
 **We're working on this open source project, This Repository with coded explanations of Machine Learning concepts like Supervised Learning, Unsupervised Learning, Reinforcement learning, Computer Vision, Natural Language Processing and stuff like that.**
 
