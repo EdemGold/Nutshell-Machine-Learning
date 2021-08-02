@@ -29,8 +29,14 @@ This file is allocated towards helping you understand the basics and fundamental
 - [Kaggle](https://www.kaggle.com/learn/python) - Intro into the fundamentals of Python.
 - [Programiz](https://www.programiz.com/python-programming) - Our Python tutorial will guide you to learn Python one step at a time.
 - [Real Python](https://realpython.com/) - At Real Python you can learn all things Python from the ground up. Everything from the absolute basics of Python, to web development and web scraping, to data visualization, and beyond.
-
-
+- [Sololearn](https://www.sololearn.com/learning/1073) - Learn Python, one of today's most in-demand programming languages on-the-go! Practice writing Python code, collect points, & show off your skills now!Everything from the absolute basics of Python, to web development and web scraping, to data visualization, and beyond.
+- [Algosaurus- A graphic guide to algorithms](http://algosaur.us/data-structures-basics/) - A guide to the Basics of Data Structures
+- [Google's Python Class](https://developers.google.com/edu/python) - A free class for people with a little bit of programming experience who want to learn Python. The class includes written materials, lecture videos, and lots of code exercises to practice Python coding. These materials are used within Google to introduce Python to people who have just a little programming experience. 
+- [Learn x in y minutes](https://learnxinyminutes.com/docs/python/) - Teaches you python concepts, syntax and much more.
+- [Progate](https://progate.com/languages/python) - Progate is an easy-to-use platform designed to help you learn coding online.
+- [Python For Beginners](https://www.pythonforbeginners.com/) - Learn Python By Examples.
+- [Edx](https://www.edx.org/learn/python) - Become familiar with the basics of python including python syntax, conditionals, and much more.
+- [Python Cheatsheet](https://www.pythoncheatsheet.org/) - Explains python syntax with examples.
 
 # Python Books
 - [Python for you and me](https://pymbook.readthedocs.io/en/latest/index.html#welcome-to-python-for-you-and-me) - This is a simple book to learn Python programming language, it is for the programmers who are new to Python.
