@@ -2,9 +2,10 @@
 
 This file is allocated towards helping you understand the basics and fundamentals of Python.
 
-- Python Websites - Websites to learn Python for free.
+- [Python Websites](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Learn_Python.md#python-websites) - Websites to learn Python for free.
+- [Python Books](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Learn_Python.md#python-websites) - Books to introduce you to the basics of Python.
 - Python Courses/Videos - Courses/Videos that introduces you to the fundamentals of Python.
-- Python Books - Books to introduce you to the basics of Python.
+- Python Repositories - Repositories that explains the basics and advanced concepts of Python.
 
 
 # Python Websites
