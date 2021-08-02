@@ -1,6 +1,6 @@
 # Python Resources
 
-This file is allocated towards helping you understand the basics and fundamentals of Python.
+A collection of resources to teach you the basics and advanced concepts of Python.
 
 - [Python Websites](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Learn_Python.md#python-websites) - Websites to learn Python for free.
 - [Python Books](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Learn_Python.md#python-books) - Books to introduce you to the basics of Python.
@@ -48,3 +48,8 @@ This file is allocated towards helping you understand the basics and fundamental
 - [Full StackPython](https://www.fullstackpython.com/) - An open source book that explains technical concepts in plain language.
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/) - This handcrafted guide exists to provide both novice and expert Python developers a best practice handbook for the installation, configuration, and usage of Python on a daily basis.
 - [Think Python](https://greenteapress.com/wp/think-python-2e/) - Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression.
+- [Learning with Python - How to Think Like a Computer Scientist](https://greenteapress.com/wp/learning-with-python/) - The goal of this book is to teach you to think like a computer scientist. This way of thinking combines some of the best features of mathematics, engineering, and natural science.
+- [Learning Python: Powerful Object-Oriented Programming](https://www.pdfdrive.com/learning-python-powerful-object-oriented-programming-e169780738.html) - Get a comprehensive, in-depth introduction to the core Python language with this hands-on book.
+- [A Byte Of Python](https://python.swaroopch.com/) - This book will help you to learn the Python programming language, whether you are new to computers or are an experienced programmer.
+- [Beyond the Basic Stuff with Python](https://nostarch.com/beyond-basic-stuff-python) - More than a mere collection of advanced syntax and masterful tips for writing clean code, you'll learn how to advance your Python programming skills by using the command line and other professional tools like code formatters, type checkers, linters, and version control. 
+- [Dive Into Algorithms](https://nostarch.com/Dive-Into-Algorithms) -  A wide-ranging, Pythonic tour of many of the world's most interesting algorithms. With little more than a bit of computer programming experience and basic high-school math, you'll explore standard computer science algorithms for searching, sorting, and optimization; human-based algorithms that help us determine how to catch a baseball or eat the right amount at a buffet; and advanced algorithms like ones used in machine learning and artificial intelligence. 
