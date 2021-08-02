@@ -39,7 +39,9 @@ A collection of resources to teach you the basics and advanced concepts of Pytho
 - [Edx](https://www.edx.org/learn/python) - Become familiar with the basics of python including python syntax, conditionals, and much more.
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/) - Explains python syntax with examples.
 
+
 # Python Books
+
 - [Python for you and me](https://pymbook.readthedocs.io/en/latest/index.html#welcome-to-python-for-you-and-me) - This is a simple book to learn Python programming language, it is for the programmers who are new to Python.
 - [Python Pocket Refrence](https://www.pdfdrive.com/python-pocket-reference-5th-edition-python-in-your-pocket-e166623626.html) - Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression.
 - [Automate the Boring stuff with python](https://www.pdfdrive.com/automate-the-boring-stuff-with-python-automate-the-boring-stuff-with-python-e26956384.html) - Automate the Boring Stuff with Python was written for people who want to get up to speed writing small programs that do practical tasks as soon as possible.
@@ -60,3 +62,13 @@ A collection of resources to teach you the basics and advanced concepts of Pytho
 - [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.pdfdrive.com/python-crash-course-a-hands-on-project-based-introduction-to-programming-e190067998.html) - Python Crash Course is a fast-paced, thorough introduction to Python that will have you writing programs, solving problems, and making things that work in no time.
 - [Invent Your Own Computer Games with Python](https://inventwithpython.com/invent4thed/) - Invent Your Own Computer Games with Python teaches you how to program in the Python language. Each chapter gives you the complete source code for a new game, and then teaches the programming concepts from the examples.
 - [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/) - With this hands-on guide, you’ll learn how to write effective, idiomatic Python code by leveraging its best—and possibly most neglected—features.
+
+
+# Python Courses/Videos
+
+- [Crash Course on Python](https://www.coursera.org/learn/python-crash-course)
+- [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
+- [Python Data Structures](https://www.coursera.org/learn/python-data)
+- [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
+- [An Introduction to Interactive Programming in Python (Part 1)](https://www.classcentral.com/course/interactivepython1-408?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021)
+- [Learn to Program: The Fundamentals](https://www.classcentral.com/course/programming1-385?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021)
