@@ -39,7 +39,9 @@ A collection of resources to teach you the basics and advanced concepts of Pytho
 - [Edx](https://www.edx.org/learn/python) - Become familiar with the basics of python including python syntax, conditionals, and much more.
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/) - Explains python syntax with examples.
 
+
 # Python Books
+
 - [Python for you and me](https://pymbook.readthedocs.io/en/latest/index.html#welcome-to-python-for-you-and-me) - This is a simple book to learn Python programming language, it is for the programmers who are new to Python.
 - [Python Pocket Refrence](https://www.pdfdrive.com/python-pocket-reference-5th-edition-python-in-your-pocket-e166623626.html) - Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression.
 - [Automate the Boring stuff with python](https://www.pdfdrive.com/automate-the-boring-stuff-with-python-automate-the-boring-stuff-with-python-e26956384.html) - Automate the Boring Stuff with Python was written for people who want to get up to speed writing small programs that do practical tasks as soon as possible.
@@ -60,3 +62,26 @@ A collection of resources to teach you the basics and advanced concepts of Pytho
 - [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.pdfdrive.com/python-crash-course-a-hands-on-project-based-introduction-to-programming-e190067998.html) - Python Crash Course is a fast-paced, thorough introduction to Python that will have you writing programs, solving problems, and making things that work in no time.
 - [Invent Your Own Computer Games with Python](https://inventwithpython.com/invent4thed/) - Invent Your Own Computer Games with Python teaches you how to program in the Python language. Each chapter gives you the complete source code for a new game, and then teaches the programming concepts from the examples.
 - [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/) - With this hands-on guide, you’ll learn how to write effective, idiomatic Python code by leveraging its best—and possibly most neglected—features.
+
+
+# Python Courses/Videos
+
+- [Crash Course on Python](https://www.coursera.org/learn/python-crash-course)
+- [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
+- [Python Data Structures](https://www.coursera.org/learn/python-data)
+- [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
+- [An Introduction to Interactive Programming in Python (Part 1)](https://www.classcentral.com/course/interactivepython1-408?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021)
+- [Learn to Program: The Fundamentals](https://www.classcentral.com/course/programming1-385?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021)
+- [Python Programming Essentials](https://www.classcentral.com/course/python-programming-9549?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021)
+- [Python for Absolute Beginners!](https://www.udemy.com/course/free-python/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-n9wcejNnSiOzMzOge8KRYg&utm_medium=udemyads&utm_source=aff-campaign)
+- [2021 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?ranMID=39197&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-_AdSId0p3CHnD.c78AXWJQ&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=jU79Zysihs4)
+- [Introduction To Computer Science And Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-2)
+- [Python Crash Course by Traversy Media](https://www.youtube.com/watch?v=JJmcL1N2KQ)
+- [Introduction To Programming with Python](https://www.udemy.com/course/introduction-to-programming-with-python-beginners-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-l7B_PxBM3rarGy2a37ZOIQ&utm_medium=udemyads&utm_source=aff-campaign)
+- [Rithm School Python Fundamentals Part I](https://www.rithmschool.com/courses/python-fundamentals-part-1)
+- [Rithm School Python Fundamentals Part II](https://www.rithmschool.com/courses/python-fundamentals-part-2)
+- [An Introduction to Python Programming](https://www.udemy.com/course/an-introduction-to-python-programming/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-nGbPJ1nSdDePVzFs3c.OWA&utm_medium=udemyads&utm_source=aff-campaign)
+- [Learn Python 3.6 for Total Beginners](https://www.udemy.com/course/python-3-for-total-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-8o.GeO9j_xbjvsLSjKml6A&utm_medium=udemyads&utm_source=aff-campaign)
+- [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/)
+- [Python Tutorial Based on the Official Documentation](https://www.youtube.com/watch?v=vQqisFjAnsE&list=PLpMTHmi814W0nSToTOC0Q18kREOjcJspW)
+- [Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course/)
