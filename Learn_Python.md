@@ -1,6 +1,6 @@
 # Python Resources
 
-A collection of resources to teach you the basics and advanced concepts of Python.
+A collection of resources to help you learn the basics and advanced concepts of Python.
 
 - [Python Websites](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Learn_Python.md#python-websites) - Websites to learn Python for free.
 - [Python Books](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Learn_Python.md#python-books) - Books to introduce you to the basics of Python.
