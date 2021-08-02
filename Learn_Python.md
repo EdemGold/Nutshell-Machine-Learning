@@ -91,34 +91,11 @@ A collection of resources to teach you the basics and advanced concepts of Pytho
 - [Hitchhiker's Guide to Python](https://github.com/realpython/python-guide)
 - [awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
 - [Python Reference](https://github.com/rasbt/python_reference)
+- [30 Seconds Of Python](https://github.com/30-seconds/30-seconds-of-python)
 - [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
 - [Awesome Python](https://github.com/vinta/awesome-python)
-li><a href="https://github.com/realpython/python-guide">/a></li>
- <li><a href="https://github.com/vinta/awesome-python">Awesome Python</a></li>
- <li><a href="https://github.com/rasbt/python_reference">Python Reference</a></li>
- <li><a href="https://github.com/quobit/awesome-python-in-education">awesome-python-in-education</a></li>
- <li><a href="https://github.com/huangsam/ultimate-python">Ultimate Python study guide</a></li>
- <li><a href="https://github.com/30-seconds/30-seconds-of-python">30 seconds of python</a></li>
- <li><a href="https://github.com/GalvanizeOpenSource/python-resources">python-resources</a></li>
- <li><a href="https://github.com/Asabeneh/Python">Python</a></li>
- <li><a href="https://github.com/arpan74/ctci-python-solutions">Cracking the Coding Interview in Python</a></li>
- <li><a href="https://github.com/towardsai/tutorials">Tutorials</a></li>
-  <li><a href="https://github.com/devAmoghS/Python-Interview-Problems-for-Practice">Python Interview Problems For Practice</a></li>
- <li><a href="https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions">100 Plus Python Coding Problems With Solutions</a></li>
- <li><a href="https://github.com/amboulouma/python-ultimate-tutorial">Python Ultimate Tutorial</a></li>
- <li><a href="https://github.com/AsciiKay/Beginners-Python-Examples">Beginners-Python-Programs</a></li>
- <li><a href="https://github.com/Akuli/python-tutorial">Python programming tutorial for beginners</a></li>
- <li><a href="https://github.com/jerry-git/learn-python3">learn-python3</a></li>
- <li><a href="https://github.com/nairuzabulhul/.CodeBits">CodeBits</a></li>
-  <li><a href="https://github.com/learning-zone/python-interview-questions">Python Interview Questions</a></li>
- <li><a href="https://github.com/gautam1858/python-awesome">python-awesome</a></li>
- <li><a href="https://github.com/talkpython/100daysofcode-with-python-course">100 DaysOfCode with Python</a></li>
- <li><a href="https://github.com/Asabeneh/30-Days-Of-Python">30 Days Of Python</a></li>
- <li> <a href ="https://github.com/ForrestKnight/open-source-cs-python">The Python Open Source Computer Science Degree</a></li>
- <li><a href="https://github.com/pamoroso/free-python-books">Free Python Books</a></li>
- <li><a href="https://github.com/xxg1413/python">FlyPython</a></li>
- <li><a href="https://github.com/darkprinx/break-the-ice-with-python">Break The Ice With Python</a></li>
- <li><a href="https://github.com/Junnplus/awesome-python-books">Awesome Python Books</a></li>
- <li><a href="https://github.com/trekhleb/learn-python">learn-python</a></li>
- <li><a href="https://github.com/joaoventura/full-speed-python">full-speed-python</a></li>
- <li><a href="https://github.com/TheAlgorithms/Python">The Algorithms - Python</a></li>
+- [Python-resources](https://github.com/GalvanizeOpenSource/python-resources)
+- [Python](https://github.com/Asabeneh/Python)
+- [Tutorials](https://github.com/towardsai/tutorials)
+- [Cracking the Coding Interview in Python](https://github.com/arpan74/ctci-python-solutions)
+- [Python Interview Problems For Practice](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice)
