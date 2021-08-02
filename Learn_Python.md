@@ -85,3 +85,11 @@ A collection of resources to teach you the basics and advanced concepts of Pytho
 - [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/)
 - [Python Tutorial Based on the Official Documentation](https://www.youtube.com/watch?v=vQqisFjAnsE&list=PLpMTHmi814W0nSToTOC0Q18kREOjcJspW)
 - [Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course/)
+
+# Python Repositories
+
+- [Hitchhiker's Guide to Python](https://github.com/realpython/python-guide)
+- [awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
+- [Python Reference](https://github.com/rasbt/python_reference)
+- [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
+- [Awesome Python](https://github.com/vinta/awesome-python)
