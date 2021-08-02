@@ -99,3 +99,8 @@ A collection of resources to teach you the basics and advanced concepts of Pytho
 - [Tutorials](https://github.com/towardsai/tutorials)
 - [Cracking the Coding Interview in Python](https://github.com/arpan74/ctci-python-solutions)
 - [Python Interview Problems For Practice](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice)
+- [Python programming tutorial for beginners](https://github.com/Akuli/python-tutorial)
+- [Beginners Python Programs](https://github.com/AsciiKay/Beginners-Python-Examples)
+- [Python Ultimate Tutorial](https://github.com/amboulouma/python-ultimate-tutorial)
+- [Learn Python 3](https://github.com/jerry-git/learn-python3)
+- [100 Plus Python Coding Problems With Solutions](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions)
