@@ -72,3 +72,10 @@ A collection of resources to teach you the basics and advanced concepts of Pytho
 - [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
 - [An Introduction to Interactive Programming in Python (Part 1)](https://www.classcentral.com/course/interactivepython1-408?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021)
 - [Learn to Program: The Fundamentals](https://www.classcentral.com/course/programming1-385?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021)
+- [Python Programming Essentials](https://www.classcentral.com/course/python-programming-9549?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021)
+- [Python for Absolute Beginners!](https://www.udemy.com/course/free-python/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-n9wcejNnSiOzMzOge8KRYg&utm_medium=udemyads&utm_source=aff-campaign)
+- [2021 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?ranMID=39197&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-_AdSId0p3CHnD.c78AXWJQ&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=jU79Zysihs4)
+- [Introduction To Computer Science And Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-2)
+- [Python Crash Course by Traversy Media](https://www.youtube.com/watch?v=JJmcL1N2KQ)
+- [Introduction To Programming with Python](https://www.udemy.com/course/introduction-to-programming-with-python-beginners-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-l7B_PxBM3rarGy2a37ZOIQ&utm_medium=udemyads&utm_source=aff-campaign)
+ 
