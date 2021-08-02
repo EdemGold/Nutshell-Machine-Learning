@@ -78,4 +78,10 @@ A collection of resources to teach you the basics and advanced concepts of Pytho
 - [Introduction To Computer Science And Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-2)
 - [Python Crash Course by Traversy Media](https://www.youtube.com/watch?v=JJmcL1N2KQ)
 - [Introduction To Programming with Python](https://www.udemy.com/course/introduction-to-programming-with-python-beginners-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-l7B_PxBM3rarGy2a37ZOIQ&utm_medium=udemyads&utm_source=aff-campaign)
- 
+- [Rithm School Python Fundamentals Part I](https://www.rithmschool.com/courses/python-fundamentals-part-1)
+- [Rithm School Python Fundamentals Part II](https://www.rithmschool.com/courses/python-fundamentals-part-2)
+- [An Introduction to Python Programming](https://www.udemy.com/course/an-introduction-to-python-programming/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-nGbPJ1nSdDePVzFs3c.OWA&utm_medium=udemyads&utm_source=aff-campaign)
+- [Learn Python 3.6 for Total Beginners](https://www.udemy.com/course/python-3-for-total-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-8o.GeO9j_xbjvsLSjKml6A&utm_medium=udemyads&utm_source=aff-campaign)
+- [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/)
+- [Python Tutorial Based on the Official Documentation](https://www.youtube.com/watch?v=vQqisFjAnsE&list=PLpMTHmi814W0nSToTOC0Q18kREOjcJspW)
+- [Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course/)
