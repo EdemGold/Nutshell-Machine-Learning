@@ -15,6 +15,9 @@ The repository was built with a tree-like structure in mind, it contains everyth
 
 Here is a [resource](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Learn_Python.md) to get you started with the basics and fundamentals of Python. Check out this [roadmap](Roadmap/roadmap.md) too.
 
+# Resources
+- [Machine Learning Concepts](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Concepts)
+
 # Contributing
 
 Feel free to add more resources to this repo by either creating an issue or making a Pull Request. See our [contribution guidelines](CONTRIBUTING.md) to get started.
