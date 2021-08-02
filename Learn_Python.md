@@ -4,8 +4,8 @@ A collection of resources to teach you the basics and advanced concepts of Pytho
 
 - [Python Websites](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Learn_Python.md#python-websites) - Websites to learn Python for free.
 - [Python Books](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Learn_Python.md#python-books) - Books to introduce you to the basics of Python.
-- Python Courses/Videos - Courses/Videos that introduces you to the fundamentals of Python.
-- Python Repositories - Repositories that explains the basics and advanced concepts of Python.
+- [Python Courses/Videos](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Learn_Python.md#python-coursesvideos) - Courses/Videos that introduces you to the fundamentals of Python.
+- [Python Repositories](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Learn_Python.md#python-repositories) - Repositories that explains the basics and advanced concepts of Python.
 
 
 # Python Websites
@@ -85,3 +85,35 @@ A collection of resources to teach you the basics and advanced concepts of Pytho
 - [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/)
 - [Python Tutorial Based on the Official Documentation](https://www.youtube.com/watch?v=vQqisFjAnsE&list=PLpMTHmi814W0nSToTOC0Q18kREOjcJspW)
 - [Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course/)
+
+# Python Repositories
+
+- [Hitchhiker's Guide to Python](https://github.com/realpython/python-guide)
+- [awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
+- [30 Seconds Of Python](https://github.com/30-seconds/30-seconds-of-python)
+- [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
+- [Awesome Python](https://github.com/vinta/awesome-python)
+- [Python-resources](https://github.com/GalvanizeOpenSource/python-resources)
+- [Python](https://github.com/Asabeneh/Python)
+- [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)
+- [Tutorials](https://github.com/towardsai/tutorials)
+- [Cracking the Coding Interview in Python](https://github.com/arpan74/ctci-python-solutions)
+- [Python Interview Problems For Practice](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice)
+- [Python programming tutorial for beginners](https://github.com/Akuli/python-tutorial)
+- [Beginners Python Programs](https://github.com/AsciiKay/Beginners-Python-Examples)
+- [Python Ultimate Tutorial](https://github.com/amboulouma/python-ultimate-tutorial)
+- [Learn Python 3](https://github.com/jerry-git/learn-python3)
+- [Python Reference](https://github.com/rasbt/python_reference)
+- [CodeBits](https://github.com/nairuzabulhul/.CodeBits)
+- [Python Awesome](https://github.com/gautam1858/python-awesome)
+- [100 DaysOfCode with Python](https://github.com/talkpython/100daysofcode-with-python-course)
+- [Python Interview Questions](https://github.com/learning-zone/python-interview-questions)
+- [100 Plus Python Coding Problems With Solutions](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions)
+- [FlyPython](https://github.com/xxg1413/python)
+- [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
+- [Full Speed Python](https://github.com/joaoventura/full-speed-python)
+- [FlyPython](https://github.com/xxg1413/python)
+- [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
+- [Break The Ice With Python](https://github.com/darkprinx/break-the-ice-with-python)
+- [The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python)
+- [Free Python Books](https://github.com/pamoroso/free-python-books)
