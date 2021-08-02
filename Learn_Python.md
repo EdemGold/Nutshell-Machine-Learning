@@ -34,3 +34,7 @@ This file is allocated towards helping you understand the basics and fundamental
 
 # Python Books
 - [Python for you and me](https://pymbook.readthedocs.io/en/latest/index.html#welcome-to-python-for-you-and-me) - This is a simple book to learn Python programming language, it is for the programmers who are new to Python.
+- [Python Pocket Refrence](https://www.pdfdrive.com/python-pocket-reference-5th-edition-python-in-your-pocket-e166623626.html) - This is a book which teaches the basics of python.
+- [Automate the Boring stuff with python](https://www.pdfdrive.com/automate-the-boring-stuff-with-python-automate-the-boring-stuff-with-python-e26956384.html) - This a book which teaches you python with real life examples.
+- [Python for Dummies](https://www.pdfdrive.com/python-all-in-one-for-dummies-e188632865.html) - This a  bookmin the "for dummies" series which introduces beginners to python basics.
+- [The python book](https://www.pdfdrive.com/the-python-book-the-ultimate-guide-to-coding-with-python-e175482973.html) - This is a book which provides elegant intorductions for python concepts.
