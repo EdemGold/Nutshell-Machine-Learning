@@ -18,9 +18,10 @@ Here is a [resource](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob
 
 # Notebooks
 
-| Notbook                                                                                       | Google Colab | Kaggle      | Author |
-| --------------------------------------------------------------------------------------------- | ------------ | ----------- | ------ |
-| [Data Preprocessing](../blob/master/Machine%20Learning%20Concepts/Data%20Pre-procesing.ipynb) | Colab Link   | Kaggle Link | Edem   |
+| Notbook                                                                                                                                                       | Google Colab | Kaggle      | Author    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------- | --------- |
+| [Data Preprocessing](../blob/master/Machine%20Learning%20Concepts/Data_Preparation/Data%20Pre-procesing.ipynb)                                                | Colab Link   | Kaggle Link | Edem Gold |
+| [Supervised Learning](../blob/master/Machine%20Learning%20Concepts/Supervised_Learning/Classification/Building%20Classification%20models/Naive%20Bayes.ipynb) | Colab Link   | Kaggle Link | Edem Gold |
 
 # Resources
 
