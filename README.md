@@ -1,4 +1,4 @@
-# Nutshell Machine Learning 
+# Nutshell Machine Learning
 
 ![GitHub](https://img.shields.io/github/license/EdemGold/Nutshell-Machine-Learning)
 ![GitHub](https://img.shields.io/badge/Contributions-welcome-green)
@@ -7,7 +7,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/EdemGold/Nutshell-Machine-Learning)
 
 ![Image](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Images/Image_1.png)
-# 
+
+#
 
 > Machines can see, hear and learn. Welcome to the future 🌍
 
@@ -15,13 +16,19 @@ The repository was built with a tree-like structure in mind, it contains everyth
 
 Here is a [resource](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Learn_Python.md) to get you started with the basics and fundamentals of Python. Check out this [roadmap](Roadmap/roadmap.md) too.
 
+# Notebooks
+
+| Notbook                                                                                       | Google Colab | Kaggle      | Author |
+| --------------------------------------------------------------------------------------------- | ------------ | ----------- | ------ |
+| [Data Preprocessing](../blob/master/Machine%20Learning%20Concepts/Data%20Pre-procesing.ipynb) | Colab Link   | Kaggle Link | Edem   |
+
 # Resources
+
 - [Machine Learning Concepts](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Concepts)
 
 # Contributing
 
 Feel free to add more resources to this repo by either creating an issue or making a Pull Request. See our [contribution guidelines](CONTRIBUTING.md) to get started.
-
 
 ## License
 
