@@ -38,6 +38,8 @@ Here is a [resource](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob
 # Resources
 
 - [Machine Learning Concepts](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Concepts)
+- [Machine Learning Repositories](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/ML_repositories.md)
+
 
 # Contributing
 
