@@ -1,4 +1,4 @@
-# Nutshell Machine Learning 
+# Nutshell Machine Learning
 
 ![GitHub](https://img.shields.io/github/license/EdemGold/Nutshell-Machine-Learning)
 ![GitHub](https://img.shields.io/badge/Contributions-welcome-green)
@@ -7,7 +7,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/EdemGold/Nutshell-Machine-Learning)
 
 ![Image](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Images/Image_1.png)
-# 
+
+#
 
 > Machines can see, hear and learn. Welcome to the future 🌍
 
@@ -15,13 +16,32 @@ The repository was built with a tree-like structure in mind, it contains everyth
 
 Here is a [resource](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Learn_Python.md) to get you started with the basics and fundamentals of Python. Check out this [roadmap](Roadmap/roadmap.md) too.
 
+# Notebooks
+
+| Notbook                                                                                                                                                                                                                                      | Google Colab | Kaggle      | Author                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------- | -------------------------------------------------- |
+| [Data Preprocessing](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Data_Preparation/Data%20Pre-processing%20.ipynb)                                                                          | Colab Link   | Kaggle Link | [Emmanuel Tanimowo ](https://github.com/Mannuel25) |
+| [Supervised Learning](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Classification/Building%20Claasification%20models/Naive%20Bayes%20.ipynb)                            | Colab Link   | Kaggle Link | [Emmanuel Tanimowo ](https://github.com/Mannuel25) |
+| [Logistic Regression](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Classification/Building%20Claasification%20models/Logistic%20Regression.ipynb)                       | Colab Link   | Kaggle Link | [Emmanuel Tanimowo ](https://github.com/Mannuel25) |
+| [Random Forest](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Classification/Building%20Claasification%20models/Random%20Forest.ipynb)                                   | Colab Link   | Kaggle Link | [Emmanuel Tanimowo ](https://github.com/Mannuel25) |
+| [Decision Tree](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Classification/Building%20Claasification%20models/Decision%20Tree%20Clasifier.ipynb)                       | Colab Link   | Kaggle Link | [Emmanuel Tanimowo ](https://github.com/Mannuel25) |
+| [Support Vector Machine](<https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Classification/Building%20Claasification%20models/Support%20Vector%20Machines%20%20(SVM).ipynb>) | Colab Link   | Kaggle Link | [Emmanuel Tanimowo ](https://github.com/Mannuel25) |
+| [Classification Models](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Classification/Classification%20model%20demo/Classification%20model%20example%20.ipynb)            | Colab Link   | Kaggle Link | [Emmanuel Tanimowo ](https://github.com/Mannuel25) |
+| [Accuracy Score](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Classification/Classifier%20Performance%20Measures/Accuracy%20Score.ipynb)                                | Colab Link   | Kaggle Link | [Emmanuel Tanimowo ](https://github.com/Mannuel25) |
+| [Confusion Matrix](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Classification/Classifier%20Performance%20Measures/Confusion%20Matrix.ipynb)                            | Colab Link   | Kaggle Link | [Emmanuel Tanimowo ](https://github.com/Mannuel25) |
+| [F1 Score](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Classification/Classifier%20Performance%20Measures/F1%20Score.ipynb)                                            | Colab Link   | Kaggle Link | [Emmanuel Tanimowo ](https://github.com/Mannuel25) |
+| [Precision Score](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Classification/Classifier%20Performance%20Measures/Precision%20Score.ipynb)                              | Colab Link   | Kaggle Link | [Emmanuel Tanimowo ](https://github.com/Mannuel25) |
+| [Recall & Sensetivity Score](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Classification/Classifier%20Performance%20Measures/Recall%20%26%20Sensitivity%20Score.ipynb)  | Colab Link   | Kaggle Link | [Emmanuel Tanimowo ](https://github.com/Mannuel25) |
+| [Specifity Score](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Classification/Classifier%20Performance%20Measures/Specifity%20score.ipynb)                              | Colab Link   | Kaggle Link | [Emmanuel Tanimowo ](https://github.com/Mannuel25) |
+| [Linear / Single Variable Regressors](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Regression/Linear%20Regressor%20or%20Single%20Variable%20regressor.ipynb)            | Colab Link   | Kaggle Link | [Emmanuel Tanimowo ](https://github.com/Mannuel25) |
+
 # Resources
+
 - [Machine Learning Concepts](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Concepts)
 
 # Contributing
 
 Feel free to add more resources to this repo by either creating an issue or making a Pull Request. See our [contribution guidelines](CONTRIBUTING.md) to get started.
-
 
 ## License
 
