@@ -14,3 +14,8 @@
 - [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
 - [Deep Learning (PyTorch) - ND101 v7](https://github.com/udacity/deep-learning-v2-pytorch) - Projects and exercises for the latest Deep Learning ND program.
 -[Reinforcement Learning](https://github.com/dennybritz/reinforcement-learning) - Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
+- [Deep Learning Papernotes](https://github.com/dennybritz/deeplearning-papernotes) - Summaries and notes on Deep Learning research papers.
+- [Neural Network From Scratch](https://github.com/dennybritz/nn-from-scratch) - Implementing a Neural Network from Scratch.
+- [Convolutional Neural Networks for Sentence Classification](https://github.com/dennybritz/cnn-text-classification-tf) - Convolutional Neural Network for Text Classification in Tensorflow.
+- [Deep Reinforcement Learning Nanodegree](https://github.com/udacity/deep-reinforcement-learning) - Repo for the Deep Reinforcement Learning Nanodegree program.
+ - [Deep Learning Nanodegree Foundation](https://github.com/udacity/deep-learning) - Repo for the Deep Learning Nanodegree Foundations program.
