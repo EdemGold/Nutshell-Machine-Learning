@@ -18,4 +18,8 @@
 - [Neural Network From Scratch](https://github.com/dennybritz/nn-from-scratch) - Implementing a Neural Network from Scratch.
 - [Convolutional Neural Networks for Sentence Classification](https://github.com/dennybritz/cnn-text-classification-tf) - Convolutional Neural Network for Text Classification in Tensorflow.
 - [Deep Reinforcement Learning Nanodegree](https://github.com/udacity/deep-reinforcement-learning) - Repo for the Deep Reinforcement Learning Nanodegree program.
- - [Deep Learning Nanodegree Foundation](https://github.com/udacity/deep-learning) - Repo for the Deep Learning Nanodegree Foundations program.
+- [Deep Learning Nanodegree Foundation](https://github.com/udacity/deep-learning) - Repo for the Deep Learning Nanodegree Foundations program.
+- [Python Machine Learning book code repository](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)" book code repository and info resource.
+- [Machine Learning Examples And Tutorials.](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
+- [Data science blogs](https://github.com/rushter/data-science-blogs) - A curated list of data science blogs.
+- [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Deep Learning Tutorial notes and code.
