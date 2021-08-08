@@ -1,16 +1,16 @@
-# Supervised Learning
+# Lineaer Regressor / Single Variable regressor
 
-This repo contains coded explanations of supervised learning concepts, Classification and Regression
+ This folder contains coded explanations on how to build Linear Regressors and Single Variable Regressors
 
-## Packages Needed
+ ## Packages Needed
 
-- scikit-learn
-- pandas
-- numpy
-- matplotlib
-- Jupyter Notebook
+ - Numpy
+ - scikit-learn
+ - pandas
+ - matplotlib
+ - jupyter notebook
 
-## Installing these Packages
+ ## Installing these Packages
 - scikit-learn:
  `pip install sklearn`
  `conda install sklearn`

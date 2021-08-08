@@ -1,14 +1,13 @@
-# Supervised Learning
+# Classifier Demo
 
-This repo contains coded explanations of supervised learning concepts, Classification and Regression
+This folder explains to you how to build a classifier end-end using code inlcuding how to score and see the classifier's peformance.
 
 ## Packages Needed
-
+- numpy
 - scikit-learn
 - pandas
-- numpy
 - matplotlib
-- Jupyter Notebook
+- jupyter notebook
 
 ## Installing these Packages
 - scikit-learn:
@@ -43,3 +42,4 @@ to install directly in a jupyter notebook
 to install directly in a jupyter notebook
 
 `!pip install matplotllib`
+

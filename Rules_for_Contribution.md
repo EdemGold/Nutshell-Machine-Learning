@@ -23,5 +23,5 @@
 - Use the `[Title Case Name](link)` format.
 - Use concise descriptions.
 - Pull requests should have a useful title.
-- To add any Machine Learning concept, create a folder in the ML Concepts folder and add the concept to be added with detailed explanations. Also, if there are packages to be installed, create a `.txt` file stating out the packages to be installed and how to install these packages.
+- To add any new Machine Learning concept, create a folder in the ML Concepts folder and add the concept to be added with detailed explanations. Also, if there are packages to be installed, create a `.md` (markdown) file stating out the packages to be installed, how to install those packages and what the folder is for.
 - Codes can be contributed using jupyter notebooks and `.py`, `.r` or `.jl` files. But jupyter notebooks will be much appreciated because they support a clear explanation of code.

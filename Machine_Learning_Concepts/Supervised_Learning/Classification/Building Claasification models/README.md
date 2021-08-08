@@ -1,14 +1,13 @@
-# Supervised Learning
+# Building Classification Models
 
-This repo contains coded explanations of supervised learning concepts, Classification and Regression
+This folder contains coded explanations of how to build common Machine Learning Classifification Algorithms
 
-## Packages Needed
-
+## Packages needed
 - scikit-learn
 - pandas
-- numpy
 - matplotlib
-- Jupyter Notebook
+- numpy
+- Jupyter Notebooks
 
 ## Installing these Packages
 - scikit-learn:

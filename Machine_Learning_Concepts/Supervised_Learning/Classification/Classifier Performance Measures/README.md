@@ -1,16 +1,22 @@
-# Supervised Learning
+# Classsifier Performance Measures
 
-This repo contains coded explanations of supervised learning concepts, Classification and Regression
+This folder provides coded explanations on how to implement and use the different performance measures for Classifiers.
 
-## Packages Needed
+## Performace Measures Covered
+- Accuracy Score
+- Confusion Matrix
+- F1 score
+- Precision Score
+- Recall & Sensitivity Score
+- Specifity Score
+ ## Packages nedded
+ - Numpy
+ - scikit-learn
+ - matplotlib
+ - pandas
+ - jupyter notebook
 
-- scikit-learn
-- pandas
-- numpy
-- matplotlib
-- Jupyter Notebook
-
-## Installing these Packages
+ ## Installing these Packages
 - scikit-learn:
  `pip install sklearn`
  `conda install sklearn`
@@ -43,3 +49,5 @@ to install directly in a jupyter notebook
 to install directly in a jupyter notebook
 
 `!pip install matplotllib`
+
+ 

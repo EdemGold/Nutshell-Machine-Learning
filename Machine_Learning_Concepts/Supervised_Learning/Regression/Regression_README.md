@@ -1,16 +1,14 @@
-# Supervised Learning
+# Regression
+ This is a folder which contains coded explanations of Regression.
 
-This repo contains coded explanations of supervised learning concepts, Classification and Regression
+ ## packages Needed
+ - Numpy
+ - matplotlib
+ - pandas
+ - scikit-learn
+ - Jupyter Notebook
 
-## Packages Needed
-
-- scikit-learn
-- pandas
-- numpy
-- matplotlib
-- Jupyter Notebook
-
-## Installing these Packages
+ ## Installing these Packages
 - scikit-learn:
  `pip install sklearn`
  `conda install sklearn`

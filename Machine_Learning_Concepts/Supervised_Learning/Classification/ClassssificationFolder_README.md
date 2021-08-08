@@ -1,14 +1,14 @@
-# Supervised Learning
+# Classification Folder
 
-This repo contains coded explanations of supervised learning concepts, Classification and Regression
+This folder contains coded explanation of Classification in Machine Learning.
 
-## Packages Needed
+## Packages Nedded
 
-- scikit-learn
 - pandas
 - numpy
+- scikit-learn
+- jupyter notebook
 - matplotlib
-- Jupyter Notebook
 
 ## Installing these Packages
 - scikit-learn:
