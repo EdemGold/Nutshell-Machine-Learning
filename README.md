@@ -6,7 +6,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/EdemGold/Nutshell-Machine-Learning)
 ![GitHub Repo stars](https://img.shields.io/github/stars/EdemGold/Nutshell-Machine-Learning)
 
-![Image](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Images/Image_1.png)
+![Image](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Repo_Images/Image_1.png)
 
 #
 
@@ -40,6 +40,7 @@ Here is a [resource](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob
 - [Machine Learning Concepts](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Concepts)
 - [Machine Learning Repositories](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/ML_repositories.md)
 - [Roadmap for learning Machine Learning](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Roadmap)
+- [Tools to help learn python for machine learning](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Learn_Python)
 
 
 # Contributing
