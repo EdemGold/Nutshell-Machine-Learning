@@ -32,3 +32,8 @@ Python notebooks with ML and deep learning examples with Azure Machine Learning 
 - [Machine Learning With Python](https://github.com/susanli2016/Machine-Learning-with-Python) - Python code for common Machine Learning Algorithms.
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn!.
 - [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning.
+- [MachineLearning](https://github.com/carefree0910/MachineLearning) - Machine learning algorithms implemented by pure numpy.
+- [Mlcourse](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course.
+- [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning.
+- [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
+- [Awesome AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines) - This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.
