@@ -35,12 +35,11 @@ Here is a [resource](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob
 | [Specifity Score](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Classification/Classifier%20Performance%20Measures/Specifity%20score.ipynb)                              | Colab Link   | Kaggle Link | [Edem Gold ](https://goldedem.hashnode.dev/) |
 | [Linear / Single Variable Regressors](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Regression/Linear%20Regressor%20or%20Single%20Variable%20regressor.ipynb)            | Colab Link   | Kaggle Link | [Edem Gold ](https://goldedem.hashnode.dev/) |
 
-# Repo Resources Quick links
+# Resources 
 
 - [Machine Learning Concepts](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Concepts)
 - [Machine Learning Repositories](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/ML_repositories.md)
 - [Roadmap for learning Machine Learning](https://github.com/Mannuel25/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Roadmap)
-- [Tools to help learn python for machine learning](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Learn_Python)
 
 
 # Contributing
