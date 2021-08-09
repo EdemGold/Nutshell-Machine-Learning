@@ -48,3 +48,9 @@ Python notebooks with ML and deep learning examples with Azure Machine Learning 
 - [Machine Learning Systems Design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises.
 - [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries.
 - [Deployment of Machine Learning Models](https://github.com/trainindata/deploying-machine-learning-models) - Example Repo for the Udemy Course "Deployment of Machine Learning Models"
+- [Business Machine Learning and Data Science Applications](https://github.com/firmai/business-machine-learning) - A curated list of practical business machine learning (BML) and business data science (BDS) applications for Accounting, Customer, Employee, Legal, Management and Operations.
+- [Financial Machine Learning and Data Science](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning tools and applications.
+- [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
+- [Deep Learning Mindmap / Cheatsheet](https://github.com/dformoso/deeplearning-mindmap) - A mindmap summarising Deep Learning concepts.
+- [Python Machine Learning Jupyter Notebooks ](https://github.com/tirthajyoti/Machine-Learning-with-Python) - Practice and tutorial-style notebooks covering wide variety of machine learning techniques.
+- [Machine Learning Roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
