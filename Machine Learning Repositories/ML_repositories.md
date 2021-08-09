@@ -26,3 +26,9 @@
 - [Heamy](https://github.com/rushter/heamy) - A set of useful tools for competitive data science.
 - [Machine learning algorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations.
 - [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained.
+- [Azure Machine Learning Python SDK notebooks](https://github.com/Azure/MachineLearningNotebooks) - About
+Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft.
+- [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - Machine learning and deep learning tutorials, articles and other resources
+- [Machine Learning With Python](https://github.com/susanli2016/Machine-Learning-with-Python) - Python code for common Machine Learning Algorithms.
+- [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn!.
+- [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning.
