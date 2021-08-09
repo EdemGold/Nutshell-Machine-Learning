@@ -16,6 +16,12 @@ The repository was built with a tree-like structure in mind, it contains everyth
 
 Here is a [resource](./Python%20Resources) to get you started with the basics and fundamentals of Python. 
 
+# Resources 
+
+- [Machine Learning Concepts](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Concepts)
+- [Machine Learning Repositories](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/ML_repositories.md)
+- [Machine Learning Roadmap](https://github.com/Mannuel25/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Roadmap)
+
 # Notebooks
 
 | Notbook                                                                                                                                                                                                                                      | Google Colab | Kaggle      | Author                                             |
@@ -34,12 +40,6 @@ Here is a [resource](./Python%20Resources) to get you started with the basics an
 | [Recall & Sensitivity Score](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Classification/Classifier%20Performance%20Measures/Recall%20%26%20Sensitivity%20Score.ipynb)  | Colab Link   | Kaggle Link | [Edem Gold ](https://goldedem.hashnode.dev/) |
 | [Specifity Score](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Classification/Classifier%20Performance%20Measures/Specifity%20score.ipynb)                              | Colab Link   | Kaggle Link | [Edem Gold ](https://goldedem.hashnode.dev/) |
 | [Linear / Single Variable Regressors](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Regression/Linear%20Regressor%20or%20Single%20Variable%20regressor.ipynb)            | Colab Link   | Kaggle Link | [Edem Gold ](https://goldedem.hashnode.dev/) |
-
-# Resources 
-
-- [Machine Learning Concepts](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Concepts)
-- [Machine Learning Repositories](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/ML_repositories.md)
-- [Machine Learning Roadmap](https://github.com/Mannuel25/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Roadmap)
 
 
 # Contributing
