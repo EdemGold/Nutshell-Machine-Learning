@@ -1,0 +1,68 @@
+# Machine Learning Repositories
+
+## Here is a list of repositories pertaining to Machine Learning. 
+
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome machine learning frameworks, libraries and software (by language). 
+- [Deep Learning Models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
+- [Machine Learning Module](https://github.com/josephmisiti/machine-learning-module) - The best machine learning tutorials on the web.
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
+- [Code for Machine Learning for Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) - This repository contains all of the code examples for Machine Learning for Hackers (2012).
+- [Open Source Machine Learning Degree](https://github.com/sjqtentacles/open-source-machine-learning-degree) - Learn machine learning for free, because free is better than not-free.
+- [ML Notes](https://github.com/johnmyleswhite/MLNotes) - Very concise notes on machine learning and statistics.
+- [Scikit-learn tutorials](https://github.com/mike-perdide/scikit-learn-tutorial) - About Applied Machine Learning in Python with scikit-learn.
+- [Udacity's Machine Learning curriculum](https://github.com/udacity/machine-learning) - Content for Udacity's Machine Learning curriculum.
+- [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
+- [Deep Learning (PyTorch) - ND101 v7](https://github.com/udacity/deep-learning-v2-pytorch) - Projects and exercises for the latest Deep Learning ND program.
+-[Reinforcement Learning](https://github.com/dennybritz/reinforcement-learning) - Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
+- [Deep Learning Papernotes](https://github.com/dennybritz/deeplearning-papernotes) - Summaries and notes on Deep Learning research papers.
+- [Neural Network From Scratch](https://github.com/dennybritz/nn-from-scratch) - Implementing a Neural Network from Scratch.
+- [Convolutional Neural Networks for Sentence Classification](https://github.com/dennybritz/cnn-text-classification-tf) - Convolutional Neural Network for Text Classification in Tensorflow.
+- [Deep Reinforcement Learning Nanodegree](https://github.com/udacity/deep-reinforcement-learning) - Repo for the Deep Reinforcement Learning Nanodegree program.
+- [Deep Learning Nanodegree Foundation](https://github.com/udacity/deep-learning) - Repo for the Deep Learning Nanodegree Foundations program.
+- [Python Machine Learning book code repository](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)" book code repository and info resource.
+- [Machine Learning Examples And Tutorials.](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
+- [Data science blogs](https://github.com/rushter/data-science-blogs) - A curated list of data science blogs.
+- [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Deep Learning Tutorial notes and code.
+- [Heamy](https://github.com/rushter/heamy) - A set of useful tools for competitive data science.
+- [Machine learning algorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations.
+- [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained.
+- [Azure Machine Learning Python SDK notebooks](https://github.com/Azure/MachineLearningNotebooks) - About
+Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft.
+- [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - Machine learning and deep learning tutorials, articles and other resources
+- [Machine Learning With Python](https://github.com/susanli2016/Machine-Learning-with-Python) - Python code for common Machine Learning Algorithms.
+- [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn!.
+- [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning.
+- [MachineLearning](https://github.com/carefree0910/MachineLearning) - Machine learning algorithms implemented by pure numpy.
+- [Mlcourse](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course.
+- [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning.
+- [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
+- [Awesome AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines) - This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.
+- [A Machine Learning Course with Python](https://github.com/instillai/machine-learning-course) - Machine Learning Course with Python.
+- [TensorFlow Course](https://github.com/instillai/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow.
+- [Deep Learning - All You Need to Know](https://github.com/instillai/deep-learning-roadmap) - All You Need to Know About Deep Learning - A kick-starter. 
+- [TensorFlow Roadmap](https://github.com/instillai/TensorFlow-Roadmap) - Organized & Useful Resources about Deep Learning with TensorFlow
+- [Machine-Learning / Deep-Learning / AI -Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials.
+- [numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy. 
+- [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+- [Meta Learning Papers](https://github.com/floodsung/Meta-Learning-Papers) - Meta Learning / Learning to Learn / One Shot Learning / Few Shot Learning.
+- [Machine Learning Systems Design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises.
+- [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries.
+- [Deployment of Machine Learning Models](https://github.com/trainindata/deploying-machine-learning-models) - Example Repo for the Udemy Course "Deployment of Machine Learning Models"
+- [Business Machine Learning and Data Science Applications](https://github.com/firmai/business-machine-learning) - A curated list of practical business machine learning (BML) and business data science (BDS) applications for Accounting, Customer, Employee, Legal, Management and Operations.
+- [Financial Machine Learning and Data Science](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning tools and applications.
+- [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
+- [Deep Learning Mindmap / Cheatsheet](https://github.com/dformoso/deeplearning-mindmap) - A mindmap summarising Deep Learning concepts.
+- [Python Machine Learning Jupyter Notebooks ](https://github.com/tirthajyoti/Machine-Learning-with-Python) - Practice and tutorial-style notebooks covering wide variety of machine learning techniques.
+- [Machine Learning Roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
+- [papers and literature on ML/DL/RL/AI](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI) - Highly cited and useful papers related to machine learning, deep learning, AI, game theory, reinforcement learning.
+- [Zero to Mastery Deep Learning with TensorFlow](https://github.com/mrdbourke/tensorflow-deep-learning) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
+- [All course materials for the Zero to Mastery Machine Learning and Data Science course.](https://github.com/mrdbourke/zero-to-mastery-ml) - Zero to Mastery Machine Learning.
+- [Deep Learning with Python ](https://github.com/tirthajyoti/Deep-learning-with-Python) - Deep learning codes and projects using Python.
+- [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - Classical equations and diagrams in machine learning
+- [Machine learning basics](https://github.com/zotroneneis/machine_learning_basics) - Plain python implementations of basic machine learning algorithms.
+- [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python) - Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
+- [Hands-On Transfer Learning with Python](https://github.com/dipanjanS/hands-on-transfer-learning-with-python) - Deep learning simplified by transferring prior learning using the Python deep learning ecosystem.
+- [Data science for all](https://github.com/dipanjanS/data_science_for_all) - Code and resources for my blog and articles to share Data Science and AI knowledge and learnings with everyone.
+- [NLP Essentials](https://github.com/dipanjanS/nlp_essentials) - Essential and Fundametal aspects of Natural Language Processing with hands-on examples and case-studies. 
+- [Data Analysis and Machine Learning Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
+- [Neural Structured Learning in TensorFlow](https://github.com/tensorflow/neural-structured-learning) - Training neural models with structured signals.
