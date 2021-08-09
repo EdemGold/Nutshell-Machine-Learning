@@ -6,7 +6,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/EdemGold/Nutshell-Machine-Learning)
 ![GitHub Repo stars](https://img.shields.io/github/stars/EdemGold/Nutshell-Machine-Learning)
 
-![Image](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Repo_Images/readme_image.png)
+![Image](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Images/readme_image.pnggit)
 
 #
 
