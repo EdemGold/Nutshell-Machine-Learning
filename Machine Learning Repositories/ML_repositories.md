@@ -37,3 +37,8 @@ Python notebooks with ML and deep learning examples with Azure Machine Learning 
 - [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning.
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
 - [Awesome AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines) - This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.
+- [A Machine Learning Course with Python](https://github.com/instillai/machine-learning-course) - Machine Learning Course with Python.
+- [TensorFlow Course](https://github.com/instillai/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow.
+- [Deep Learning - All You Need to Know](https://github.com/instillai/deep-learning-roadmap) - All You Need to Know About Deep Learning - A kick-starter. 
+- [TensorFlow Roadmap](https://github.com/instillai/TensorFlow-Roadmap) - Organized & Useful Resources about Deep Learning with TensorFlow
+- [Machine-Learning / Deep-Learning / AI -Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials.
