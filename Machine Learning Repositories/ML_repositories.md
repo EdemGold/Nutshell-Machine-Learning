@@ -54,3 +54,11 @@ Python notebooks with ML and deep learning examples with Azure Machine Learning 
 - [Deep Learning Mindmap / Cheatsheet](https://github.com/dformoso/deeplearning-mindmap) - A mindmap summarising Deep Learning concepts.
 - [Python Machine Learning Jupyter Notebooks ](https://github.com/tirthajyoti/Machine-Learning-with-Python) - Practice and tutorial-style notebooks covering wide variety of machine learning techniques.
 - [Machine Learning Roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
+- [papers and literature on ML/DL/RL/AI](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI) - Highly cited and useful papers related to machine learning, deep learning, AI, game theory, reinforcement learning.
+- [Zero to Mastery Deep Learning with TensorFlow](https://github.com/mrdbourke/tensorflow-deep-learning) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
+- [All course materials for the Zero to Mastery Machine Learning and Data Science course.](https://github.com/mrdbourke/zero-to-mastery-ml) - Zero to Mastery Machine Learning.
+- [Deep Learning with Python ](https://github.com/tirthajyoti/Deep-learning-with-Python) - Deep learning codes and projects using Python.
+- [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - Classical equations and diagrams in machine learning
+- [Machine learning basics](https://github.com/zotroneneis/machine_learning_basics) - Plain python implementations of basic machine learning algorithms.
+- [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python) - Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
+ 
