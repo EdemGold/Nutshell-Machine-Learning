@@ -42,3 +42,9 @@ Python notebooks with ML and deep learning examples with Azure Machine Learning 
 - [Deep Learning - All You Need to Know](https://github.com/instillai/deep-learning-roadmap) - All You Need to Know About Deep Learning - A kick-starter. 
 - [TensorFlow Roadmap](https://github.com/instillai/TensorFlow-Roadmap) - Organized & Useful Resources about Deep Learning with TensorFlow
 - [Machine-Learning / Deep-Learning / AI -Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials.
+- [numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy. 
+- [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+- [Meta Learning Papers](https://github.com/floodsung/Meta-Learning-Papers) - Meta Learning / Learning to Learn / One Shot Learning / Few Shot Learning.
+- [Machine Learning Systems Design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises.
+- [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries.
+- [Deployment of Machine Learning Models](https://github.com/trainindata/deploying-machine-learning-models) - Example Repo for the Udemy Course "Deployment of Machine Learning Models"
