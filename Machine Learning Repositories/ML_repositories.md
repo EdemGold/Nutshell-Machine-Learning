@@ -61,4 +61,8 @@ Python notebooks with ML and deep learning examples with Azure Machine Learning 
 - [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - Classical equations and diagrams in machine learning
 - [Machine learning basics](https://github.com/zotroneneis/machine_learning_basics) - Plain python implementations of basic machine learning algorithms.
 - [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python) - Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
- 
+- [Hands-On Transfer Learning with Python](https://github.com/dipanjanS/hands-on-transfer-learning-with-python) - Deep learning simplified by transferring prior learning using the Python deep learning ecosystem.
+- [Data science for all](https://github.com/dipanjanS/data_science_for_all) - Code and resources for my blog and articles to share Data Science and AI knowledge and learnings with everyone.
+- [NLP Essentials](https://github.com/dipanjanS/nlp_essentials) - Essential and Fundametal aspects of Natural Language Processing with hands-on examples and case-studies. 
+- [Data Analysis and Machine Learning Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
+- [Neural Structured Learning in TensorFlow](https://github.com/tensorflow/neural-structured-learning) - Training neural models with structured signals.
