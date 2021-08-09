@@ -6,7 +6,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/EdemGold/Nutshell-Machine-Learning)
 ![GitHub Repo stars](https://img.shields.io/github/stars/EdemGold/Nutshell-Machine-Learning)
 
-![Image](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Repo_Images/Image_1.png)
+![Image](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Images/readme_image.png)
 
 #
 
@@ -14,7 +14,7 @@
 
 The repository was built with a tree-like structure in mind, it contains everything that you need to getting started with Machine Learning. A lot of the fear people have of Machine learning is due to those unnecessary complex terms, this stops people from going into Machine Learning. It's not true!, anyone can do ML, and we plan to make that happen.
 
-Here is a [resource](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Learn_Python.md) to get you started with the basics and fundamentals of Python. Check out this [roadmap](Roadmap/roadmap.md) too.
+Here is a [resource](./Python%20Resources) to get you started with the basics and fundamentals of Python. 
 
 # Notebooks
 
@@ -35,12 +35,11 @@ Here is a [resource](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob
 | [Specifity Score](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Classification/Classifier%20Performance%20Measures/Specifity%20score.ipynb)                              | Colab Link   | Kaggle Link | [Edem Gold ](https://goldedem.hashnode.dev/) |
 | [Linear / Single Variable Regressors](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Regression/Linear%20Regressor%20or%20Single%20Variable%20regressor.ipynb)            | Colab Link   | Kaggle Link | [Edem Gold ](https://goldedem.hashnode.dev/) |
 
-# Repo Resources Quick links
+# Resources 
 
 - [Machine Learning Concepts](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Concepts)
 - [Machine Learning Repositories](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/ML_repositories.md)
-- [Roadmap for learning Machine Learning](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Roadmap)
-- [Tools to help learn python for machine learning](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Learn_Python)
+- [Machine Learning Roadmap](https://github.com/Mannuel25/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Roadmap)
 
 
 # Contributing
