@@ -39,7 +39,7 @@ Here is a [resource](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob
 
 - [Machine Learning Concepts](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Concepts)
 - [Machine Learning Repositories](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/ML_repositories.md)
-- [Roadmap for learning Machine Learning](https://github.com/Mannuel25/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Roadmap)
+- [Machine Learning Roadmap](https://github.com/Mannuel25/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Roadmap)
 
 
 # Contributing
