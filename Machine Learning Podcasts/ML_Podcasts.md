@@ -1,0 +1,5 @@
+# Machine Learning Podcasts
+
+- [Gradient Dissent](https://wandb.ai/site/podcast) - A Machine Learning podcast that focuses on “Stories from machine learning experts solving real-world problems.”
+- [Machine Learning Guide](https://podcasts.google.com/feed/aHR0cDovL21hY2hpbmVsZWFybmluZ2d1aWRlLmxpYnN5bi5jb20vcnNz) - Machine learning audio course, teaching the fundamentals of machine learning and artificial intelligence. It covers intuition, models (shallow and deep), math, languages, frameworks, etc.
+- [Practical AI: Machine Learning, Data Science](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL3ByYWN0aWNhbGFpL2ZlZWQ?sa=X&ved=0CAMQ4aUDahcKEwjIr8-Qm6fyAhUAAAAAHQAAAAAQAQ) - Practical AI is a show in which technology professionals, business people, students, enthusiasts, and expert guests engage in lively discussions about Artificial Intelligence and related topics (Machine Learning, Deep Learning, Neural Networks, etc). 
