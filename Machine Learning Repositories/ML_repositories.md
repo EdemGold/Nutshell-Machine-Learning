@@ -1,7 +1,5 @@
 # Machine Learning Repositories
 
-## Here is a list of repositories pertaining to Machine Learning. 
-
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome machine learning frameworks, libraries and software (by language). 
 - [Deep Learning Models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
 - [Machine Learning Module](https://github.com/josephmisiti/machine-learning-module) - The best machine learning tutorials on the web.
@@ -12,6 +10,8 @@
 - [Scikit-learn tutorials](https://github.com/mike-perdide/scikit-learn-tutorial) - About Applied Machine Learning in Python with scikit-learn.
 - [Udacity's Machine Learning curriculum](https://github.com/udacity/machine-learning) - Content for Udacity's Machine Learning curriculum.
 - [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
+- [Hands On Machine Learning](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
+- [Machine Learning Tutorials](https://github.com/ethen8181/machine-learning) - Machine learning tutorials (mainly in Python3)
 - [Deep Learning (PyTorch) - ND101 v7](https://github.com/udacity/deep-learning-v2-pytorch) - Projects and exercises for the latest Deep Learning ND program.
 -[Reinforcement Learning](https://github.com/dennybritz/reinforcement-learning) - Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
 - [Deep Learning Papernotes](https://github.com/dennybritz/deeplearning-papernotes) - Summaries and notes on Deep Learning research papers.
