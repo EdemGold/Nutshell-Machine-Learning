@@ -1,0 +1,7 @@
+In this folder we will be talking about the introduction to perfomance measures of a classifier.
+
+After implementing a Machine Learning algorithm,  we need to find out how effective the model is.
+
+The criteria for measuring the effectiveness may be based on the datsets provided and the metric
+
+For evaluating different Algorithms ee can make use of different performance Measures

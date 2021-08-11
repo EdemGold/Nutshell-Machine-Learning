@@ -1,0 +1,3 @@
+This folder gives the code on how to build different type sof classification models in Machine Learning.
+
+Models like: Random Forest, Decision Trees, Logistic Regression, Naive Bayes models, SVMs etc
