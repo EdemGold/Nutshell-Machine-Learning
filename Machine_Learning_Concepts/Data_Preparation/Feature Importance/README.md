@@ -1,21 +1,12 @@
-# Data Preparation
+# Feature Importance
 
-This folder contains techniques preparing your data for usage in Machine Learning models.
+This folder contains information on how to rank feature based on their importance using different Machine Learning Algorithms, amd also shows shows feature importance can affect a demo in real time.
 
-It talks about data preparation  techniques like:
-
-- Binarization
-- Mean Removal
-- Scaling
-- Normalization
-- Label encoding
-
-It also contaisna  seperate folder for feature Importance
-
-## Packages Nedded
+## Packages Needed
 - scikit-learn
 - jupyter notebook
 - XGBoost
+- matplotlib
 
 ## Installing these Packages
 - scikit-learn:
@@ -38,3 +29,10 @@ It also contaisna  seperate folder for feature Importance
 
  to install directly in a jupyter notebook
  `!pip install XGBoost`
+
+ - matplotlib:
+ `pip install matplotlib`
+ `conda install matplotlib`
+
+ to install directly in a jupyter notebook
+ `!pip install matplotlib`
