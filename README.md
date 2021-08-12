@@ -6,7 +6,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/EdemGold/Nutshell-Machine-Learning)
 ![GitHub Repo stars](https://img.shields.io/github/stars/EdemGold/Nutshell-Machine-Learning)
 
-![Image](https://github.com/Mannuel25/Nutshell-Machine-Learning/blob/main/Images/readme_image.png)
+![Image](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Images/readme_image.png)
 
 #
 
@@ -14,19 +14,19 @@
 
 The repository was built with a tree-like structure in mind, it contains everything that you need to getting started with Machine Learning. A lot of the fear people have of Machine learning is due to those unnecessary complex terms, this stops people from going into Machine Learning. It's not true!, anyone can do ML, and we plan to make that happen.
 
-Here is a [resource](./Python%20Resources) to get you started with the basics and fundamentals of Python. 
+Here is a [resource](./Python-Resources) to get you started with the basics and fundamentals of Python. 
 
 # Resources 
 
-- [Machine Learning Concepts](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Concepts)
-- [Machine Learning Repositories](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/ML_repositories.md)
-- [Machine Learning Roadmap](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Roadmap)
-- [Machine Learning Articles](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Articles)
-- [Machine Learning Podcasts](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine%20Learning%20Podcasts)
+- [Machine Learning Concepts](./Machine-Learning-Concepts)
+- [Machine Learning Repositories](./Machine-Learning-Repositories)
+- [Machine Learning Roadmap](/.Machine-Learning-Roadmap)
+- [Machine Learning Articles](/.Machine-Learning-Articles)
+- [Machine Learning Podcasts](/.Machine-Learning-Podcasts)
 
 # Notebooks
 
-| Notbook                                                                                                                                                                                                                                      | Google Colab | Kaggle      | Author                                             |
+| Notebook                                                                                                                                                                                                                                      | Google Colab | Kaggle      | Author                                             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------- | -------------------------------------------------- |
 | [Data Preprocessing](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Data_Preparation/Data%20Pre-processing%20.ipynb)                                                                          | Colab Link   | Kaggle Link | [Edem Gold ](https://goldedem.hashnode.dev/) |
 | [Supervised Learning](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Machine%20Learning%20Concepts/Supervised_Learning/Classification/Building%20Claasification%20models/Naive%20Bayes%20.ipynb)                            | Colab Link   | Kaggle Link | [Edem Gold ](https://goldedem.hashnode.dev/) |
