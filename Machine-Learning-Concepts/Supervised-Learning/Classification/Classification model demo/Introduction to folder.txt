@@ -1,1 +1,0 @@
-This folder walks you through all the steps involved in the creation of a model, getting the data, splitting the data and getting th emodels perfomance on test data.
