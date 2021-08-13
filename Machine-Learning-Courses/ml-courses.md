@@ -10,3 +10,8 @@
 - [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
 - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 - [Data Science Fundamentals with Python and SQL Specialization](https://www.coursera.org/specializations/data-science-fundamentals-python-sql)
+- [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+- [https://www.coursera.org/professional-certificates/tensorflow-in-practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+- [Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+- [TensorFlow 2 for Deep Learning Specialization](https://www.coursera.org/specializations/tensorflow2-deeplearning)
+- [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
