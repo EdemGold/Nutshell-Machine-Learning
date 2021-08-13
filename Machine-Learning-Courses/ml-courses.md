@@ -1,3 +1,8 @@
 #  Machine Learning Courses/Videos
 
 - [Machine Learning for Everyone](https://www.datacamp.com/courses/machine-learning-for-everyone?utm_source=adwords_ppc&utm_campaignid=9557301080&utm_adgroupid=103540671732&utm_device=c&utm_keyword=%2Bmachine%20%2Blearning%20%2Bcourse&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=423190497508&utm_targetid=aud-299261629654:kwd-64218413482&utm_loc_interest_ms=&utm_loc_physical_ms=21567&gclid=CjwKCAjwsNiIBhBdEiwAJK4khlBfmhoDkulD6exaIyxd-U0WYbhB--93eAe7n-NoYJuQC3bZk3oiDxoCI6EQAvD_BwE)
+- [Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+- [Applied Data Science Module](https://www.wqu.edu/programs/data-science/?utm_source=DW&utm_medium=search&utm_campaign=1727641591_64457839661_NA&utm_content=%2Bmachine%2Blearning%2Bcourse&gclid=CjwKCAjwsNiIBhBdEiwAJK4khsX0GWmL80bCbxCIQRK9DpfN0768LUX8aaIcFJCt7MHCkPzmfuxG8RoCeTsQAvD_BwE&gclsrc=aw.ds)
+- [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone?utm_source=gg&utm_medium=sem&utm_campaign=08-AIforEveryone-ROW&utm_content=08-AIforEveryone-ROW&campaignid=9727679885&adgroupid=99187762066&device=c&keyword=intelligence%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=428167449287&hide_mobile_promo&gclid=CjwKCAjwsNiIBhBdEiwAJK4khh1EXrbpZ7EWXnUd0vooOc2RU2XMF8uorX1iyRjv8wjv_ESeTFy2zBoCBEUQAvD_BwE)
