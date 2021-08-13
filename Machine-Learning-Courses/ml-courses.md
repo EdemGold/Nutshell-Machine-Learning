@@ -1,0 +1,3 @@
+#  Machine Learning Courses/Videos
+
+- [Machine Learning for Everyone](https://www.datacamp.com/courses/machine-learning-for-everyone?utm_source=adwords_ppc&utm_campaignid=9557301080&utm_adgroupid=103540671732&utm_device=c&utm_keyword=%2Bmachine%20%2Blearning%20%2Bcourse&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=423190497508&utm_targetid=aud-299261629654:kwd-64218413482&utm_loc_interest_ms=&utm_loc_physical_ms=21567&gclid=CjwKCAjwsNiIBhBdEiwAJK4khlBfmhoDkulD6exaIyxd-U0WYbhB--93eAe7n-NoYJuQC3bZk3oiDxoCI6EQAvD_BwE)
