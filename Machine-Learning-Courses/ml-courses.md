@@ -31,3 +31,6 @@
 - [Stanford CS229 - Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Machine Learning | Andew Ng, Stanford University](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
 - [Statistics - A Full University Course on Data Science Basics](https://www.youtube.com/watch?v=xxpc-HPKN28)
+- [Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct)
+- [Machine Learning Fundamentals](https://www.edx.org/course/machine-learning-fundamentals-2)
+- [Professional Certificate in gitComputer Science for Artificial Intelligence](https://www.edx.org/professional-certificate/harvardx-computer-science-for-artifical-intelligence)
