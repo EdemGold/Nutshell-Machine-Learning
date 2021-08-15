@@ -18,12 +18,12 @@ Here is a [resource](./Python-Resources) to get you started with the basics and 
 
 # Resources 
 
-- [Machine Learning Concepts](./Machine-Learning-Concepts)
-- [Machine Learning Repositories](./Machine-Learning-Repositories)
-- [Machine Learning Courses/Videos](./Machine-Learning-Courses)
-- [Machine Learning Roadmap](./Machine-Learning-Roadmap)
-- [Machine Learning Articles](./Machine-Learning-Articles)
-- [Machine Learning Podcasts](./Machine-Learning-Podcasts)
+- [Machine Learning Concepts](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine-Learning-Concepts)
+- [Machine Learning Repositories](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine-Learning-Repositories)
+- [Machine Learning Courses/Videos](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine-Learning-Courses)
+- [Machine Learning Roadmap](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine-Learning-Roadmap)
+- [Machine Learning Articles](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine-Learning-Articles)
+- [Machine Learning Podcasts](https://github.com/EdemGold/Nutshell-Machine-Learning/tree/main/Machine-Learning-Podcasts)
 
 # Notebooks
 
