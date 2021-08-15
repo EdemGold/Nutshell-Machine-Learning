@@ -21,9 +21,9 @@ Here is a [resource](./Python-Resources) to get you started with the basics and 
 - [Machine Learning Concepts](./Machine-Learning-Concepts)
 - [Machine Learning Repositories](./Machine-Learning-Repositories)
 - [Machine Learning Courses/Videos](./Machine-Learning-Courses)
-- [Machine Learning Roadmap](/.Machine-Learning-Roadmap)
-- [Machine Learning Articles](/.Machine-Learning-Articles)
-- [Machine Learning Podcasts](/.Machine-Learning-Podcasts)
+- [Machine Learning Roadmap](./Machine-Learning-Roadmap)
+- [Machine Learning Articles](./Machine-Learning-Articles)
+- [Machine Learning Podcasts](./Machine-Learning-Podcasts)
 
 # Notebooks
 
