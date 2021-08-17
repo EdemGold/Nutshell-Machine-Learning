@@ -69,3 +69,6 @@ Python notebooks with ML and deep learning examples with Azure Machine Learning 
 - [Machine Learning Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - A resource for learning about ML, DL, PyTorch and TensorFlow.
 - [Financial Machine Learning and Data Science](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning tools and applications.
 - [Awesome Quantum Machine Learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) - Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web.
+- [Have Fun with Machine Learning: A Guide for Beginners](https://github.com/humphd/have-fun-with-machine-learning) - An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks
+- [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) - A curated list of awesome machine learning interpretability resources.
+- [Machine Learning Interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAAG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc.
