@@ -37,6 +37,7 @@
 - [Machine learning with Python for finance professionals](https://www.edx.org/course/machine-learning-with-python-for-finance-professionals)
 - [Data Science](https://www.edx.org/professional-certificate/harvardx-data-science)
 - [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning)
+- [Python For Data Science](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
 - [Machine Learning with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to)
 - [PyTorch Basics for Machine Learning](https://www.edx.org/course/pytorch-basics-for-machine-learning)
 - [Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-for-data-science-and-analytics)
