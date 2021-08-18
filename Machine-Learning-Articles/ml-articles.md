@@ -10,7 +10,7 @@
 - [Crack the top 40 machine learning interview questions](https://dev.to/educative/crack-the-top-40-machine-learning-interview-questions-1e2c)
 - [All Python Libraries You Need For Machine Learning And Data Science](https://patloeber.com/python-libraries-for-machine-learning)
 - [Metrics to evaluate your Machine Learning algorithm](https://apoorvtyagi.tech/metrics-to-evaluate-your-machine-learning-algorithm)
-- [https://dev.to/decipherzonesoft/artificial-intelligence-vs-machine-learning-vs-deep-learning-568n](https://dev.to/decipherzonesoft/artificial-intelligence-vs-machine-learning-vs-deep-learning-568n)
+- [Artificial Intelligence vs Machine Learning vs Deep Learning](https://dev.to/decipherzonesoft/artificial-intelligence-vs-machine-learning-vs-deep-learning-568n)
 - [How I'm learning Machine Learning (without being a math genius)](https://dev.to/diegoisco/how-i-m-learning-machine-learning-without-being-a-math-genius-1g4c)
 - [MLOPs And Machine Learning RoadMap](https://dev.to/seattledataguy/mlops-and-machine-learning-roadmap-o7p)
 - [Machine Learning - Introduction](https://dev.to/sandeepbalachandran/machine-learning-introduction-400o)
