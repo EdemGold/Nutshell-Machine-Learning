@@ -2,6 +2,7 @@
 
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome machine learning frameworks, libraries and software (by language). 
 - [Deep Learning Models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
+- [Start Machine Learning](https://github.com/louisfb01/start-machine-learning-in-2020) - A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
 - [Machine Learning Module](https://github.com/josephmisiti/machine-learning-module) - The best machine learning tutorials on the web.
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [Code for Machine Learning for Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) - This repository contains all of the code examples for Machine Learning for Hackers (2012).
