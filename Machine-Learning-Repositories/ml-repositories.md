@@ -33,7 +33,7 @@ Python notebooks with ML and deep learning examples with Azure Machine Learning 
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn!.
 - [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning.
 - [MachineLearning](https://github.com/carefree0910/MachineLearning) - Machine learning algorithms implemented by pure numpy.
-- [Mlcourse](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course.
+- [Ml Course](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course.
 - [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning.
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
 - [Awesome AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines) - This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.
@@ -42,7 +42,7 @@ Python notebooks with ML and deep learning examples with Azure Machine Learning 
 - [Deep Learning - All You Need to Know](https://github.com/instillai/deep-learning-roadmap) - All You Need to Know About Deep Learning - A kick-starter. 
 - [TensorFlow Roadmap](https://github.com/instillai/TensorFlow-Roadmap) - Organized & Useful Resources about Deep Learning with TensorFlow
 - [Machine-Learning / Deep-Learning / AI -Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials.
-- [numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy. 
+- [Numpy Ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy. 
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [Meta Learning Papers](https://github.com/floodsung/Meta-Learning-Papers) - Meta Learning / Learning to Learn / One Shot Learning / Few Shot Learning.
 - [Machine Learning Systems Design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises.
@@ -54,7 +54,7 @@ Python notebooks with ML and deep learning examples with Azure Machine Learning 
 - [Deep Learning Mindmap / Cheatsheet](https://github.com/dformoso/deeplearning-mindmap) - A mindmap summarising Deep Learning concepts.
 - [Python Machine Learning Jupyter Notebooks ](https://github.com/tirthajyoti/Machine-Learning-with-Python) - Practice and tutorial-style notebooks covering wide variety of machine learning techniques.
 - [Machine Learning Roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
-- [papers and literature on ML/DL/RL/AI](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI) - Highly cited and useful papers related to machine learning, deep learning, AI, game theory, reinforcement learning.
+- [Papers and literature on ML/DL/RL/AI](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI) - Highly cited and useful papers related to machine learning, deep learning, AI, game theory, reinforcement learning.
 - [Zero to Mastery Deep Learning with TensorFlow](https://github.com/mrdbourke/tensorflow-deep-learning) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
 - [All course materials for the Zero to Mastery Machine Learning and Data Science course.](https://github.com/mrdbourke/zero-to-mastery-ml) - Zero to Mastery Machine Learning.
 - [Deep Learning with Python ](https://github.com/tirthajyoti/Deep-learning-with-Python) - Deep learning codes and projects using Python.
