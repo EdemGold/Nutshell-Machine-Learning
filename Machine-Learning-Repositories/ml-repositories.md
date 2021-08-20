@@ -23,7 +23,7 @@
 - [Machine Learning Examples And Tutorials.](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
 - [Data science blogs](https://github.com/rushter/data-science-blogs) - A curated list of data science blogs.
 - [Data Science Resources](https://github.com/jonathan-bower/DataScienceResources) - Open Source Data Science Resources.
-- [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap) - A roadmap to start your data science career
+- [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap) - A roadmap to start your data science career.
 - [PyTorch Tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
 - [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Deep Learning Tutorial notes and code.
 - [Heamy](https://github.com/rushter/heamy) - A set of useful tools for competitive data science.
