@@ -22,6 +22,7 @@
 - [Python Machine Learning book code repository](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)" book code repository and info resource.
 - [Machine Learning Examples And Tutorials.](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
 - [Data science blogs](https://github.com/rushter/data-science-blogs) - A curated list of data science blogs.
+- [PyTorch Tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
 - [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Deep Learning Tutorial notes and code.
 - [Heamy](https://github.com/rushter/heamy) - A set of useful tools for competitive data science.
 - [Machine learning algorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations.
