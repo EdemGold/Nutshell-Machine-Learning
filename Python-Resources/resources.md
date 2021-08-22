@@ -3,10 +3,10 @@
 A collection of resources to help you learn the basics and advanced concepts of Python.
 
 ## Quick links
-- [Python Websites](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Python-Resources/resources.md#python-websites) - Websites to learn Python for free.
-- [Python Books](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Python-Resources/resources.md#python-books) - Books to introduce you to the basics of Python.
-- [Python Courses/Videos](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Python-Resources/resources.md#python-coursesvideos) - Courses/Videos that introduces you to the fundamentals of Python.
-- [Python Repositories](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Python-Resources/resources.md#python-repositories) - Repositories that explains the basics and advanced concepts of Python.
+- [Python Websites](#python-websites) - Websites to learn Python for free.
+- [Python Books](#python-books) - Books to introduce you to the basics of Python.
+- [Python Courses/Videos](#python-coursesvideos) - Courses/Videos that introduces you to the fundamentals of Python.
+- [Python Repositories](#python-repositories) - Repositories that explains the basics and advanced concepts of Python.
 
 # Python Websites
 
@@ -68,6 +68,9 @@ A collection of resources to help you learn the basics and advanced concepts of 
 - [Crash Course on Python](https://www.coursera.org/learn/python-crash-course)
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
 - [Python Data Structures](https://www.coursera.org/learn/python-data)
+- [Python Tutorial - Python For Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+- [Python Tutorial For Beginners](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+- [Python Full Course - Learn Python In 12 Hours](https://www.youtube.com/watch?v=WGJJIrtnfpk)
 - [Python for Everybody - Full University Python Course](https://www.youtube.com/watch?v=8DvywoWv6fI)
 - [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - [Python Algorithms For Interviews](https://www.youtube.com/watch?v=p65AHm9MX80)
