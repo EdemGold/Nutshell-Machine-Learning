@@ -1,9 +1,6 @@
-# Building Cluster Algorithms
-This folder provides coded explanations on how to build different Cluster Algorithms
+# Cluster Algorithms Performance Measures
+This folder provides coded explanations on how to build performance measures for Clustering Algorithms
 
-## Algorithms Built
-- K-Means Clustering
-- Mean Shift Algorithm
 ## Packages Needed
 - scikit-learn
 - pandas
