@@ -6,9 +6,9 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/EdemGold/Nutshell-Machine-Learning)
 ![GitHub Repo stars](https://img.shields.io/github/stars/EdemGold/Nutshell-Machine-Learning)
 
-![Image](https://github.com/EdemGold/Nutshell-Machine-Learning/blob/main/Images/readme_image.png)
+![Nutshell Machine Learning](https://user-images.githubusercontent.com/78334545/132151051-66386e41-2c42-421e-bb06-42ed11d8d500.png)
 
-#
+
 
 > Machines can see, hear and learn. Welcome to the future 🌍
 
