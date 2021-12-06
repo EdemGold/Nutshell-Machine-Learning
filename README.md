@@ -30,6 +30,6 @@ Here is a [resource](./Python-Resources) to get you started with the basics and 
 
 Feel free to add more resources to this repo by either creating an issue or making a Pull Request. See our [contribution guidelines](CONTRIBUTING.md) to get started. Join our [Discord](https://discord.gg/9BaRFXxsmA) Server for latest updates and further discussion.
 
-## License
+# License
 
 This repository is under an [MIT License](https://choosealicense.com/licenses/mit/).
